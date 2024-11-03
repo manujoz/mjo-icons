@@ -1,0 +1,1 @@
+export const TbHome2: string;

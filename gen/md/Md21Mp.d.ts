@@ -1,0 +1,1 @@
+export const Md21Mp: string;

@@ -1,0 +1,1 @@
+export const MdExposurePlus2: string;

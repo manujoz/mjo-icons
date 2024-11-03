@@ -1,0 +1,1 @@
+export const BsCommand: string;

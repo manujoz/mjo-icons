@@ -1,0 +1,1 @@
+export const MdOutlineRsvp: string;

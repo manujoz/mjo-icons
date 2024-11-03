@@ -1,0 +1,1 @@
+export const MdPrecisionManufacturing: string;

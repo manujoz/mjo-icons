@@ -1,0 +1,1 @@
+export const PiEyedropperLight: string;

@@ -1,0 +1,1 @@
+export const TbBasketExclamation: string;

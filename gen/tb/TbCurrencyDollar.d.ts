@@ -1,0 +1,1 @@
+export const TbCurrencyDollar: string;

@@ -1,0 +1,1 @@
+export const TbShapeOff: string;

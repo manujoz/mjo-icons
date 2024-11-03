@@ -1,0 +1,1 @@
+export const HiOutlineSquare3Stack3D: string;

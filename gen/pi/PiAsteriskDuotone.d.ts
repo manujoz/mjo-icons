@@ -1,0 +1,1 @@
+export const PiAsteriskDuotone: string;

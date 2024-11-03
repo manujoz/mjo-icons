@@ -1,0 +1,1 @@
+export const MdOutlineLooksTwo: string;

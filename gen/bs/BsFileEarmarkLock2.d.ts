@@ -1,0 +1,1 @@
+export const BsFileEarmarkLock2: string;

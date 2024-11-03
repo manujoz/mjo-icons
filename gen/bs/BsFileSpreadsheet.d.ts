@@ -1,0 +1,1 @@
+export const BsFileSpreadsheet: string;

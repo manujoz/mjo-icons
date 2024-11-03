@@ -1,0 +1,1 @@
+export const LiaFrownOpen: string;

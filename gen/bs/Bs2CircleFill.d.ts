@@ -1,0 +1,1 @@
+export const Bs2CircleFill: string;

@@ -1,0 +1,1 @@
+export const PiTrendDownThin: string;

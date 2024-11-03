@@ -1,0 +1,1 @@
+export const MdOutlineReplay30: string;

@@ -1,0 +1,1 @@
+export const BiSolidExtension: string;

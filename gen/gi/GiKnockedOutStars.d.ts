@@ -1,0 +1,1 @@
+export const GiKnockedOutStars: string;

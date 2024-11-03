@@ -1,0 +1,1 @@
+export const TbMoneybag: string;

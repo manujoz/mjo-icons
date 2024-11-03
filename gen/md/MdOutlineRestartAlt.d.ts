@@ -1,0 +1,1 @@
+export const MdOutlineRestartAlt: string;

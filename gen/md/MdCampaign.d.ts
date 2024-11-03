@@ -1,0 +1,1 @@
+export const MdCampaign: string;

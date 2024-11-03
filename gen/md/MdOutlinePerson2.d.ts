@@ -1,0 +1,1 @@
+export const MdOutlinePerson2: string;

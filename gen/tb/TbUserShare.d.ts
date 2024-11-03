@@ -1,0 +1,1 @@
+export const TbUserShare: string;

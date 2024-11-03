@@ -1,0 +1,1 @@
+export const PiToggleLeftThin: string;

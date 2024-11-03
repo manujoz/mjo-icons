@@ -1,0 +1,1 @@
+export const TbSunset2: string;

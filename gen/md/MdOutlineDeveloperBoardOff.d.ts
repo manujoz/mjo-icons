@@ -1,0 +1,1 @@
+export const MdOutlineDeveloperBoardOff: string;

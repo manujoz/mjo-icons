@@ -1,0 +1,1 @@
+export const IoShieldHalfOutline: string;

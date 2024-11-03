@@ -1,0 +1,1 @@
+export const MdOutlineSportsKabaddi: string;

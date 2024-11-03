@@ -1,0 +1,1 @@
+export const IoIceCream: string;

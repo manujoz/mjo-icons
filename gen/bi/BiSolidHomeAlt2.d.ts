@@ -1,0 +1,1 @@
+export const BiSolidHomeAlt2: string;

@@ -1,0 +1,1 @@
+export const IoReorderTwo = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="none" strokeLinecap="round" strokeLinejoin="round" strokeWidth="44" d="M118 304h276m-276-96h276"></path></svg>`

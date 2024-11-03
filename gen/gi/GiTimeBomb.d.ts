@@ -1,0 +1,1 @@
+export const GiTimeBomb: string;

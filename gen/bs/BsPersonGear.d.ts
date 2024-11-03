@@ -1,0 +1,1 @@
+export const BsPersonGear: string;

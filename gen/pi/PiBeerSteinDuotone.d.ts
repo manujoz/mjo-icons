@@ -1,0 +1,1 @@
+export const PiBeerSteinDuotone: string;

@@ -1,0 +1,1 @@
+export const GiDove: string;

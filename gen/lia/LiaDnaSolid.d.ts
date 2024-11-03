@@ -1,0 +1,1 @@
+export const LiaDnaSolid: string;

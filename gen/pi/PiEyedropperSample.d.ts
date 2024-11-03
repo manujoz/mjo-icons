@@ -1,0 +1,1 @@
+export const PiEyedropperSample: string;

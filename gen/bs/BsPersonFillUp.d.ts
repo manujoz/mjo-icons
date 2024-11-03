@@ -1,0 +1,1 @@
+export const BsPersonFillUp: string;

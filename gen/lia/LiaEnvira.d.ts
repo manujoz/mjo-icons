@@ -1,0 +1,1 @@
+export const LiaEnvira: string;

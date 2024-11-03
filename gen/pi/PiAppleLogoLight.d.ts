@@ -1,0 +1,1 @@
+export const PiAppleLogoLight: string;

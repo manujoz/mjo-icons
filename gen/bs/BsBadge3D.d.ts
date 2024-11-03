@@ -1,0 +1,1 @@
+export const BsBadge3D: string;

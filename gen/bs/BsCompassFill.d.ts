@@ -1,0 +1,1 @@
+export const BsCompassFill: string;

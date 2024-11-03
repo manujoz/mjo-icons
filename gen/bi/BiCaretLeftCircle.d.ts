@@ -1,0 +1,1 @@
+export const BiCaretLeftCircle: string;

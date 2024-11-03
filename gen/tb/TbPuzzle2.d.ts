@@ -1,0 +1,1 @@
+export const TbPuzzle2: string;

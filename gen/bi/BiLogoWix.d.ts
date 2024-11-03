@@ -1,0 +1,1 @@
+export const BiLogoWix: string;

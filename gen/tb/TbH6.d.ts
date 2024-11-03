@@ -1,0 +1,1 @@
+export const TbH6: string;

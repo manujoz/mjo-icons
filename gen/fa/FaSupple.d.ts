@@ -1,0 +1,1 @@
+export const FaSupple: string;

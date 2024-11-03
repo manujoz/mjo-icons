@@ -1,0 +1,1 @@
+export const GiTablet: string;

@@ -1,0 +1,1 @@
+export const MdOutlineTextDecrease: string;

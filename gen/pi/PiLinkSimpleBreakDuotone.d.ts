@@ -1,0 +1,1 @@
+export const PiLinkSimpleBreakDuotone: string;

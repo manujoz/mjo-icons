@@ -1,0 +1,1 @@
+export const PiTextItalicThin: string;

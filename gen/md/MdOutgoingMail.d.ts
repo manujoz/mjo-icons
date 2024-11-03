@@ -1,0 +1,1 @@
+export const MdOutgoingMail: string;

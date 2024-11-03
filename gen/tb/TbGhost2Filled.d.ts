@@ -1,0 +1,1 @@
+export const TbGhost2Filled: string;

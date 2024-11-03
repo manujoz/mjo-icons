@@ -1,0 +1,1 @@
+export const TbPanoramaVertical: string;

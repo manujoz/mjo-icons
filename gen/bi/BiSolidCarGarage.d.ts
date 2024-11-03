@@ -1,0 +1,1 @@
+export const BiSolidCarGarage: string;

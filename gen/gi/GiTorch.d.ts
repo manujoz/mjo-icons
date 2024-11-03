@@ -1,0 +1,1 @@
+export const GiTorch: string;

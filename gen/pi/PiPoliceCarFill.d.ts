@@ -1,0 +1,1 @@
+export const PiPoliceCarFill: string;

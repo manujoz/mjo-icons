@@ -1,0 +1,1 @@
+export const PiCarSimpleDuotone: string;

@@ -1,0 +1,1 @@
+export const TbChartDonut4: string;

@@ -1,0 +1,1 @@
+export const GiGuitar: string;

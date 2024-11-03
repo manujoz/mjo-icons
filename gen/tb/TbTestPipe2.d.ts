@@ -1,0 +1,1 @@
+export const TbTestPipe2: string;

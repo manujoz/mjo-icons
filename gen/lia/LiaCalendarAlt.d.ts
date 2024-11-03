@@ -1,0 +1,1 @@
+export const LiaCalendarAlt: string;

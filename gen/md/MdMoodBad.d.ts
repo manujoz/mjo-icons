@@ -1,0 +1,1 @@
+export const MdMoodBad: string;

@@ -1,0 +1,1 @@
+export const MdTimer10Select: string;

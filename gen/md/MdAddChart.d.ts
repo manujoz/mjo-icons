@@ -1,0 +1,1 @@
+export const MdAddchart: string;

@@ -1,0 +1,1 @@
+export const TbLocationSearch: string;

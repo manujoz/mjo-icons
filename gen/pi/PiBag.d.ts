@@ -1,0 +1,1 @@
+export const PiBag: string;

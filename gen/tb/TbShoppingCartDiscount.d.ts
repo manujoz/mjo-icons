@@ -1,0 +1,1 @@
+export const TbShoppingCartDiscount: string;

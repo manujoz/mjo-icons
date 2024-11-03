@@ -1,0 +1,1 @@
+export const GiAndromedaChain: string;

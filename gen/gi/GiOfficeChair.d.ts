@@ -1,0 +1,1 @@
+export const GiOfficeChair: string;

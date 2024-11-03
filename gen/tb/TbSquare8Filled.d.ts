@@ -1,0 +1,1 @@
+export const TbSquare8Filled: string;

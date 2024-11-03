@@ -1,0 +1,1 @@
+export const BsFillCloudFog2Fill: string;

@@ -1,0 +1,1 @@
+export const MdThumbUpAlt: string;

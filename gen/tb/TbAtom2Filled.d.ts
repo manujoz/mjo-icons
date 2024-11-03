@@ -1,0 +1,1 @@
+export const TbAtom2Filled: string;

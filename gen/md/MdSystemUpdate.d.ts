@@ -1,0 +1,1 @@
+export const MdSystemUpdate: string;

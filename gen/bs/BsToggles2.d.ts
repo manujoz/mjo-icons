@@ -1,0 +1,1 @@
+export const BsToggles2: string;

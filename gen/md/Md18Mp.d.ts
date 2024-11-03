@@ -1,0 +1,1 @@
+export const Md18Mp: string;

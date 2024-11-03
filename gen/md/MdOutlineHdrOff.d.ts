@@ -1,0 +1,1 @@
+export const MdOutlineHdrOff: string;

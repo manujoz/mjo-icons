@@ -1,0 +1,1 @@
+export const GiCrackedMask: string;

@@ -1,0 +1,1 @@
+export const GiIceCreamCone: string;

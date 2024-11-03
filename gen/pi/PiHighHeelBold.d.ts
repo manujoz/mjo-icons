@@ -1,0 +1,1 @@
+export const PiHighHeelBold: string;

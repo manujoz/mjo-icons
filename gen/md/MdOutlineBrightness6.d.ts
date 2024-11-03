@@ -1,0 +1,1 @@
+export const MdOutlineBrightness6: string;

@@ -1,0 +1,1 @@
+export const TbShieldBolt: string;

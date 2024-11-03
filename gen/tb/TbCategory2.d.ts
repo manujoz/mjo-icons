@@ -1,0 +1,1 @@
+export const TbCategory2: string;

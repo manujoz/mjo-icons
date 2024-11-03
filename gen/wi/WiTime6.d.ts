@@ -1,0 +1,1 @@
+export const WiTime6: string;

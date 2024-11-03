@@ -1,0 +1,1 @@
+export const MdLibraryMusic: string;

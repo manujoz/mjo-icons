@@ -1,0 +1,1 @@
+export const GiMp40: string;

@@ -1,0 +1,1 @@
+export const PiStethoscopeBold: string;

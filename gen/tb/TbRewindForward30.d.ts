@@ -1,0 +1,1 @@
+export const TbRewindForward30: string;

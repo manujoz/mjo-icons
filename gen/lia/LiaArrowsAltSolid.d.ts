@@ -1,0 +1,1 @@
+export const LiaArrowsAltSolid: string;

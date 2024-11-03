@@ -1,0 +1,1 @@
+export const FaSlash: string;

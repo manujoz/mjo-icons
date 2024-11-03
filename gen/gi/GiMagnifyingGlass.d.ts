@@ -1,0 +1,1 @@
+export const GiMagnifyingGlass: string;

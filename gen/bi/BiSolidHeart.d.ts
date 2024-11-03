@@ -1,0 +1,1 @@
+export const BiSolidHeart: string;

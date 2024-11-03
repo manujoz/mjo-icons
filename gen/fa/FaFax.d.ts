@@ -1,0 +1,1 @@
+export const FaFax: string;

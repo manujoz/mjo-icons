@@ -1,0 +1,1 @@
+export const BsBuildingUp: string;

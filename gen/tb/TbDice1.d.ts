@@ -1,0 +1,1 @@
+export const TbDice1: string;

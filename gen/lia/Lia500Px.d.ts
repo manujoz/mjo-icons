@@ -1,0 +1,1 @@
+export const Lia500Px: string;

@@ -1,0 +1,1 @@
+export const AiOutlineLoading3Quarters: string;

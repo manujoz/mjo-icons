@@ -1,0 +1,1 @@
+export const GiSwordHilt: string;

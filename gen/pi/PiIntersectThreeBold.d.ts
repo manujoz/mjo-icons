@@ -1,0 +1,1 @@
+export const PiIntersectThreeBold: string;

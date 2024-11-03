@@ -1,0 +1,1 @@
+export const GiChickenOven: string;

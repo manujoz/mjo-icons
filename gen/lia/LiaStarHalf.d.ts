@@ -1,0 +1,1 @@
+export const LiaStarHalf: string;

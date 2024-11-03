@@ -1,0 +1,1 @@
+export const BiSolidFlame: string;

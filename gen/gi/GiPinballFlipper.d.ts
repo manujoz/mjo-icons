@@ -1,0 +1,1 @@
+export const GiPinballFlipper: string;

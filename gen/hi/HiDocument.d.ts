@@ -1,0 +1,1 @@
+export const HiDocument: string;

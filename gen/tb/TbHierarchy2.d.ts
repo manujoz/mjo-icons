@@ -1,0 +1,1 @@
+export const TbHierarchy2: string;

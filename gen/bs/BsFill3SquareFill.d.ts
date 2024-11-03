@@ -1,0 +1,1 @@
+export const BsFill3SquareFill: string;

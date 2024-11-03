@@ -1,0 +1,1 @@
+export const PiBowlFoodThin: string;

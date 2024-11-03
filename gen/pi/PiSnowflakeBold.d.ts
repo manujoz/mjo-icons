@@ -1,0 +1,1 @@
+export const PiSnowflakeBold: string;

@@ -1,0 +1,1 @@
+export const TbLemon2: string;

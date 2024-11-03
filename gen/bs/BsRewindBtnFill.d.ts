@@ -1,0 +1,1 @@
+export const BsRewindBtnFill: string;

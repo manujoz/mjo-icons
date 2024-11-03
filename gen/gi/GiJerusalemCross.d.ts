@@ -1,0 +1,1 @@
+export const GiJerusalemCross: string;

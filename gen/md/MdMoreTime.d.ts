@@ -1,0 +1,1 @@
+export const MdMoreTime: string;

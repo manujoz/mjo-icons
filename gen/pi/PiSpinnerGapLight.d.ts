@@ -1,0 +1,1 @@
+export const PiSpinnerGapLight: string;

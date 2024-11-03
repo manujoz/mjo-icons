@@ -1,0 +1,1 @@
+export const TbBellRinging2: string;

@@ -1,0 +1,1 @@
+export const TbBrandWish: string;

@@ -1,0 +1,1 @@
+export const PiMotorcycle: string;

@@ -1,0 +1,1 @@
+export const MdSignalCellularAlt1Bar: string;

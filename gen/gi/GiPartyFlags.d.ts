@@ -1,0 +1,1 @@
+export const GiPartyFlags: string;

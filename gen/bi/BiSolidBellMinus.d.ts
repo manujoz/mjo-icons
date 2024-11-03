@@ -1,0 +1,1 @@
+export const BiSolidBellMinus: string;

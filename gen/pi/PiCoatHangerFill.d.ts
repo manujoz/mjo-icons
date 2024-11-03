@@ -1,0 +1,1 @@
+export const PiCoatHangerFill: string;

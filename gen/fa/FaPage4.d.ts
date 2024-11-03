@@ -1,0 +1,1 @@
+export const FaPage4: string;

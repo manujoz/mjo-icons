@@ -1,0 +1,1 @@
+export const MdOutlineEditNote: string;

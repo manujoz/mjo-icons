@@ -1,0 +1,1 @@
+export const TbAnalyze: string;

@@ -1,0 +1,1 @@
+export const TbAirConditioning: string;

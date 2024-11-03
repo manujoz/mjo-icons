@@ -1,0 +1,1 @@
+export const BiDice5: string;

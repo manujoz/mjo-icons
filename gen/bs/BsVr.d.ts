@@ -1,0 +1,1 @@
+export const BsVr: string;

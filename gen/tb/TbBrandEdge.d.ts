@@ -1,0 +1,1 @@
+export const TbBrandEdge: string;

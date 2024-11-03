@@ -1,0 +1,1 @@
+export const IoChevronUpSharp = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="none" strokeLinecap="square" strokeMiterlimit="10" strokeWidth="48" d="M112 328l144-144 144 144"></path></svg>`

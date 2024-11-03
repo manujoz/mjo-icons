@@ -1,0 +1,1 @@
+export const TbForbid2: string;

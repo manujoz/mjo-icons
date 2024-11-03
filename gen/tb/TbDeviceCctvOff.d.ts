@@ -1,0 +1,1 @@
+export const TbDeviceCctvOff: string;

@@ -1,0 +1,1 @@
+export const PiMoonStarsThin: string;

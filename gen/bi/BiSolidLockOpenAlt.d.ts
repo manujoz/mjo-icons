@@ -1,0 +1,1 @@
+export const BiSolidLockOpenAlt: string;

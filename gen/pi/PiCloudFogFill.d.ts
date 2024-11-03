@@ -1,0 +1,1 @@
+export const PiCloudFogFill: string;

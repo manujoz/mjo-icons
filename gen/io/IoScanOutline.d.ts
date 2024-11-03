@@ -1,0 +1,1 @@
+export const IoScanOutline: string;

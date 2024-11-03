@@ -1,0 +1,1 @@
+export const LiaArrowCircleLeftSolid: string;

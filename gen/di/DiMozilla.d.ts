@@ -1,0 +1,1 @@
+export const DiMozilla: string;

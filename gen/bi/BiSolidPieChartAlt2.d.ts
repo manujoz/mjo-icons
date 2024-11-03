@@ -1,0 +1,1 @@
+export const BiSolidPieChartAlt2: string;

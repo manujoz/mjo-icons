@@ -1,0 +1,1 @@
+export const MdAirplaneTicket: string;

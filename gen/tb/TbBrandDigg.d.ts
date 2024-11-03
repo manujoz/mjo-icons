@@ -1,0 +1,1 @@
+export const TbBrandDigg: string;

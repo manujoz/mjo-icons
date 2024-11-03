@@ -1,0 +1,1 @@
+export const GiBearFace: string;

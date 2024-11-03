@@ -1,0 +1,1 @@
+export const TbCurrencyDirham: string;

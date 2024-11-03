@@ -1,0 +1,1 @@
+export const TbSquareF0Filled: string;

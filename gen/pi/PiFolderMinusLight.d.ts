@@ -1,0 +1,1 @@
+export const PiFolderMinusLight: string;

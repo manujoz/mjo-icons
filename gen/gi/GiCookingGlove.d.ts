@@ -1,0 +1,1 @@
+export const GiCookingGlove: string;

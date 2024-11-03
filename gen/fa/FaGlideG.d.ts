@@ -1,0 +1,1 @@
+export const FaGlideG: string;

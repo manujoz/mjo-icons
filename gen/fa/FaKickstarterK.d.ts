@@ -1,0 +1,1 @@
+export const FaKickstarterK: string;

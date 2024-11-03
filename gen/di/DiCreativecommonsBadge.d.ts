@@ -1,0 +1,1 @@
+export const DiCreativecommonsBadge: string;

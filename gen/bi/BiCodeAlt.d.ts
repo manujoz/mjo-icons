@@ -1,0 +1,1 @@
+export const BiCodeAlt: string;

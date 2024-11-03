@@ -1,0 +1,1 @@
+export const PiToggleRight: string;

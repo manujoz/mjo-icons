@@ -1,0 +1,1 @@
+export const PiShieldWarningFill: string;

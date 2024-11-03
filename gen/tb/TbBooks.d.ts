@@ -1,0 +1,1 @@
+export const TbBooks: string;

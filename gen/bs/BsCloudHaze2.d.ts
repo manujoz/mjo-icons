@@ -1,0 +1,1 @@
+export const BsCloudHaze2: string;

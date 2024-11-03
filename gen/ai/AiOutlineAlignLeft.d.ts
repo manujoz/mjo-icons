@@ -1,0 +1,1 @@
+export const AiOutlineAlignLeft: string;

@@ -1,0 +1,1 @@
+export const Bs7Square: string;

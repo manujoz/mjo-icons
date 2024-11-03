@@ -1,0 +1,1 @@
+export const FaRegFileImage: string;

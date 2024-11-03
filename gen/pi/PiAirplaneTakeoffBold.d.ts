@@ -1,0 +1,1 @@
+export const PiAirplaneTakeoffBold: string;

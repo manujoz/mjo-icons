@@ -1,0 +1,1 @@
+export const TbBrandCashapp: string;

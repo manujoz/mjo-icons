@@ -1,0 +1,1 @@
+export const PiNumberCircleNineLight: string;

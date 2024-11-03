@@ -1,0 +1,1 @@
+export const TbWashTemperature1: string;

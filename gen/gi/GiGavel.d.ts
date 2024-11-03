@@ -1,0 +1,1 @@
+export const GiGavel: string;

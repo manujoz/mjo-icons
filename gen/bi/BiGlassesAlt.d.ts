@@ -1,0 +1,1 @@
+export const BiGlassesAlt: string;

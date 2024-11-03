@@ -1,0 +1,1 @@
+export const BsPlayBtnFill: string;

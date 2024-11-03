@@ -1,0 +1,1 @@
+export const BsPatchPlusFill: string;

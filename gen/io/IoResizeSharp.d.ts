@@ -1,0 +1,1 @@
+export const IoResizeSharp: string;

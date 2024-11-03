@@ -1,0 +1,1 @@
+export const FcLeftUp2: string;

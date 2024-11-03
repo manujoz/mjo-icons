@@ -1,0 +1,1 @@
+export const GiWoodenCrate: string;

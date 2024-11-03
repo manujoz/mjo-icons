@@ -1,0 +1,1 @@
+export const Bs5Circle: string;

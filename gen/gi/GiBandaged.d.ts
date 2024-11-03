@@ -1,0 +1,1 @@
+export const GiBandaged: string;

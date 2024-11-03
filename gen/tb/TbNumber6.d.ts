@@ -1,0 +1,1 @@
+export const TbNumber6: string;

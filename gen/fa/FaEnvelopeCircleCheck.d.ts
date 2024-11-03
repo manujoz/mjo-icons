@@ -1,0 +1,1 @@
+export const FaEnvelopeCircleCheck: string;

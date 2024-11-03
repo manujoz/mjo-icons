@@ -1,0 +1,1 @@
+export const BsFillCloudSnowFill: string;

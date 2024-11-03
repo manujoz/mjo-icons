@@ -1,0 +1,1 @@
+export const MdStar: string;

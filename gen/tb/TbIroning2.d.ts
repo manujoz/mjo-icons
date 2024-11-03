@@ -1,0 +1,1 @@
+export const TbIroning2: string;

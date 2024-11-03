@@ -1,0 +1,1 @@
+export const GiKoholintEgg: string;

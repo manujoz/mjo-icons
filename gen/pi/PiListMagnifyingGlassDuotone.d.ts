@@ -1,0 +1,1 @@
+export const PiListMagnifyingGlassDuotone: string;

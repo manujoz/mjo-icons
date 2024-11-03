@@ -1,0 +1,1 @@
+export const LiaTrashAlt: string;

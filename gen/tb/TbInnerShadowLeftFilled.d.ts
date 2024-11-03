@@ -1,0 +1,1 @@
+export const TbInnerShadowLeftFilled: string;

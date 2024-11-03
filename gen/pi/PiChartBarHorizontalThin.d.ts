@@ -1,0 +1,1 @@
+export const PiChartBarHorizontalThin: string;

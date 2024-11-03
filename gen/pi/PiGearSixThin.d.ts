@@ -1,0 +1,1 @@
+export const PiGearSixThin: string;

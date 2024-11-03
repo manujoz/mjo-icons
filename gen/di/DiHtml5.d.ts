@@ -1,0 +1,1 @@
+export const DiHtml5: string;

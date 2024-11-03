@@ -1,0 +1,1 @@
+export const MdOutlineLibraryMusic: string;

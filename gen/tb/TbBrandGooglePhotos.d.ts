@@ -1,0 +1,1 @@
+export const TbBrandGooglePhotos: string;

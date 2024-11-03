@@ -1,0 +1,1 @@
+export const PiBellSimpleFill: string;

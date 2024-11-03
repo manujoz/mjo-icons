@@ -1,0 +1,1 @@
+export const LiaEyeSolid: string;

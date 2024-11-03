@@ -1,0 +1,1 @@
+export const MdOutlineCardTravel: string;

@@ -1,0 +1,1 @@
+export const HiSquaresPlus: string;

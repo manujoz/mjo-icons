@@ -1,0 +1,1 @@
+export const LiaUsb: string;

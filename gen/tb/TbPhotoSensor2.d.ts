@@ -1,0 +1,1 @@
+export const TbPhotoSensor2: string;

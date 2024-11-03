@@ -1,0 +1,1 @@
+export const TbTableHeart: string;

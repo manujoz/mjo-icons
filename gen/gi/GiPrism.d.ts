@@ -1,0 +1,1 @@
+export const GiPrism: string;

@@ -1,0 +1,1 @@
+export const TbBrandDebian: string;

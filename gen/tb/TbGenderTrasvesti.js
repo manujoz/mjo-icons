@@ -1,0 +1,1 @@
+export const TbGenderTrasvesti = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor" fill="none" strokeLinecap="round" strokeLinejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M15 20a5 5 0 1 1 0 -10a5 5 0 0 1 0 10z"></path><path d="M6 6l5.4 5.4"></path><path d="M4 8l4 -4"></path></svg>`

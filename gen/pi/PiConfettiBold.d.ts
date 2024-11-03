@@ -1,0 +1,1 @@
+export const PiConfettiBold: string;

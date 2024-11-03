@@ -1,0 +1,1 @@
+export const BsFillBadge4KFill: string;

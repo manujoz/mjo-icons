@@ -1,0 +1,1 @@
+export const TbListDetails: string;

@@ -1,0 +1,1 @@
+export const AiFillIdcard: string;

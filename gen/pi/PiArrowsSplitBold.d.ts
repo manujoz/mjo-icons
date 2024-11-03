@@ -1,0 +1,1 @@
+export const PiArrowsSplitBold: string;

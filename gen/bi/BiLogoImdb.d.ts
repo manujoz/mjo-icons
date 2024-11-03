@@ -1,0 +1,1 @@
+export const BiLogoImdb: string;

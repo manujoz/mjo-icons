@@ -1,0 +1,1 @@
+export const TbShredder: string;

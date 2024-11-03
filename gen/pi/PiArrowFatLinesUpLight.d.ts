@@ -1,0 +1,1 @@
+export const PiArrowFatLinesUpLight: string;

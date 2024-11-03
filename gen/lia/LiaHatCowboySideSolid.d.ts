@@ -1,0 +1,1 @@
+export const LiaHatCowboySideSolid: string;

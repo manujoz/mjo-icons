@@ -1,0 +1,1 @@
+export const HiMiniDocument: string;

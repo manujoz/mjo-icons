@@ -1,0 +1,1 @@
+export const HiMiniCubeTransparent: string;

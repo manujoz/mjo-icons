@@ -1,0 +1,1 @@
+export const BsSendXFill: string;

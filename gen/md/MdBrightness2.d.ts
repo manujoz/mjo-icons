@@ -1,0 +1,1 @@
+export const MdBrightness2: string;

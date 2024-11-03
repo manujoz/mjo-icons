@@ -1,0 +1,1 @@
+export const PiChatCenteredDotsBold: string;

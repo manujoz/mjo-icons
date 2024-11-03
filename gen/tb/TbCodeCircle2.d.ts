@@ -1,0 +1,1 @@
+export const TbCodeCircle2: string;

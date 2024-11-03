@@ -1,0 +1,1 @@
+export const TbGenderNeutrois: string;

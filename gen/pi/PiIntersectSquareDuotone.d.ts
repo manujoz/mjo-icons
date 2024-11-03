@@ -1,0 +1,1 @@
+export const PiIntersectSquareDuotone: string;

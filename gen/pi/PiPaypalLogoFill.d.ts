@@ -1,0 +1,1 @@
+export const PiPaypalLogoFill: string;

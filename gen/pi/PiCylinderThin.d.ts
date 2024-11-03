@@ -1,0 +1,1 @@
+export const PiCylinderThin: string;

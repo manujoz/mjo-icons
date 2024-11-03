@@ -1,0 +1,1 @@
+export const TbLetterCaseLower: string;

@@ -1,0 +1,1 @@
+export const MdPersonPin: string;

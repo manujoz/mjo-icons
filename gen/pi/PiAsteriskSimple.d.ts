@@ -1,0 +1,1 @@
+export const PiAsteriskSimple: string;

@@ -1,0 +1,1 @@
+export const IoLogoSlack: string;

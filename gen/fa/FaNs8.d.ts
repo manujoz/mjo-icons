@@ -1,0 +1,1 @@
+export const FaNs8: string;

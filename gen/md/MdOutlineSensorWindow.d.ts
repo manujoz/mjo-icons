@@ -1,0 +1,1 @@
+export const MdOutlineSensorWindow: string;

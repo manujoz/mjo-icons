@@ -1,0 +1,1 @@
+export const GiStoneBlock: string;

@@ -1,0 +1,1 @@
+export const PiSkull: string;

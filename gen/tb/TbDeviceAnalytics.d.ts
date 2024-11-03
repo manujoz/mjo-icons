@@ -1,0 +1,1 @@
+export const TbDeviceAnalytics: string;

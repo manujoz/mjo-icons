@@ -1,0 +1,1 @@
+export const LiaCss3: string;

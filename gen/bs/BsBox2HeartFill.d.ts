@@ -1,0 +1,1 @@
+export const BsBox2HeartFill: string;

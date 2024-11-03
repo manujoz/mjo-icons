@@ -1,0 +1,1 @@
+export const GiBottleVapors: string;

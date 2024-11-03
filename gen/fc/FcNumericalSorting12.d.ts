@@ -1,0 +1,1 @@
+export const FcNumericalSorting12: string;

@@ -1,0 +1,1 @@
+export const PiLinkSimpleBreakLight: string;

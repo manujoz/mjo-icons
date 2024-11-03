@@ -1,0 +1,1 @@
+export const GiLipstick: string;

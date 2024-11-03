@@ -1,0 +1,1 @@
+export const FaTrowelBricks: string;

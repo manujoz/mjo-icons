@@ -1,0 +1,1 @@
+export const MdOutlineDiversity2: string;

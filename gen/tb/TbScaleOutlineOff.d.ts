@@ -1,0 +1,1 @@
+export const TbScaleOutlineOff: string;

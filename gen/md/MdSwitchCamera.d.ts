@@ -1,0 +1,1 @@
+export const MdSwitchCamera: string;

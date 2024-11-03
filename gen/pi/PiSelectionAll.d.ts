@@ -1,0 +1,1 @@
+export const PiSelectionAll: string;

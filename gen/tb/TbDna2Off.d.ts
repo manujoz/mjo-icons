@@ -1,0 +1,1 @@
+export const TbDna2Off: string;

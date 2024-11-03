@@ -1,0 +1,1 @@
+export const GiSteyrAug: string;

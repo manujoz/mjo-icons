@@ -1,0 +1,1 @@
+export const IoChevronDownOutline: string;

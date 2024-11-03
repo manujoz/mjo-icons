@@ -1,0 +1,1 @@
+export const GiCapeArmor: string;

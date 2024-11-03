@@ -1,0 +1,1 @@
+export const GiPlanetConquest: string;

@@ -1,0 +1,1 @@
+export const HiOutlineInformationCircle: string;

@@ -1,0 +1,1 @@
+export const PiBasketFill: string;

@@ -1,0 +1,1 @@
+export const TbWheelchair: string;

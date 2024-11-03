@@ -1,0 +1,1 @@
+export const IoStarHalfSharp: string;

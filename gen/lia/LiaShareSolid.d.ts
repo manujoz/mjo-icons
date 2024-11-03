@@ -1,0 +1,1 @@
+export const LiaShareSolid: string;

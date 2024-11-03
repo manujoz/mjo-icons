@@ -1,0 +1,1 @@
+export const GiSinkingShip: string;

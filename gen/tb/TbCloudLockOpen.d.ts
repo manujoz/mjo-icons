@@ -1,0 +1,1 @@
+export const TbCloudLockOpen: string;

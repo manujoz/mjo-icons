@@ -1,0 +1,1 @@
+export const TbHexagonLetterZ: string;

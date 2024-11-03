@@ -1,0 +1,1 @@
+export const PiBroomThin: string;

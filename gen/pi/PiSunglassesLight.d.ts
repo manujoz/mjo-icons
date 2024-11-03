@@ -1,0 +1,1 @@
+export const PiSunglassesLight: string;

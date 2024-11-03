@@ -1,0 +1,1 @@
+export const MdBrowseGallery: string;

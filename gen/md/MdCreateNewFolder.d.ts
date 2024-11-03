@@ -1,0 +1,1 @@
+export const MdCreateNewFolder: string;

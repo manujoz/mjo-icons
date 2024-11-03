@@ -1,0 +1,1 @@
+export const FaRegLemon: string;

@@ -1,0 +1,1 @@
+export const HiTrash: string;

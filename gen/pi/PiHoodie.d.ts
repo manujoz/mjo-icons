@@ -1,0 +1,1 @@
+export const PiHoodie: string;

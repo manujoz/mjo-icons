@@ -1,0 +1,1 @@
+export const TbAB2: string;

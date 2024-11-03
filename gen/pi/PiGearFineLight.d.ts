@@ -1,0 +1,1 @@
+export const PiGearFineLight: string;

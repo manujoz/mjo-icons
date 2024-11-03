@@ -1,0 +1,1 @@
+export const TbChartPie3: string;

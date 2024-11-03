@@ -1,0 +1,1 @@
+export const FaMoneyBill1Wave: string;

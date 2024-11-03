@@ -1,0 +1,1 @@
+export const Bs6Square: string;

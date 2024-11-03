@@ -1,0 +1,1 @@
+export const DiYeoman: string;

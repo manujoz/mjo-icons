@@ -1,0 +1,1 @@
+export const FaY: string;

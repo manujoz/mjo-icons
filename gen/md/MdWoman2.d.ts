@@ -1,0 +1,1 @@
+export const MdWoman2: string;

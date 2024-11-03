@@ -1,0 +1,1 @@
+export const HiBars3: string;

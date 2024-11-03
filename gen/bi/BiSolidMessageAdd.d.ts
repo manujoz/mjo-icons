@@ -1,0 +1,1 @@
+export const BiSolidMessageAdd: string;

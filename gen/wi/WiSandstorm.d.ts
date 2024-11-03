@@ -1,0 +1,1 @@
+export const WiSandstorm: string;

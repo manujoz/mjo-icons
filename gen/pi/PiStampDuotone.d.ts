@@ -1,0 +1,1 @@
+export const PiStampDuotone: string;

@@ -1,0 +1,1 @@
+export const BsReception2: string;

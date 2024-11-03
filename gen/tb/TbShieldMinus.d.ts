@@ -1,0 +1,1 @@
+export const TbShieldMinus: string;

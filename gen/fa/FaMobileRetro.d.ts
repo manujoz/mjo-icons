@@ -1,0 +1,1 @@
+export const FaMobileRetro: string;

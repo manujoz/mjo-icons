@@ -1,0 +1,1 @@
+export const PiSmileyStickerFill: string;

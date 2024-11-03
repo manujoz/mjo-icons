@@ -1,0 +1,1 @@
+export const TbWifi2: string;

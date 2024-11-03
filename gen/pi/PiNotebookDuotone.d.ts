@@ -1,0 +1,1 @@
+export const PiNotebookDuotone: string;

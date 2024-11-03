@@ -1,0 +1,1 @@
+export const GiWaxTablet: string;

@@ -1,0 +1,1 @@
+export const TbBoxMultiple5: string;

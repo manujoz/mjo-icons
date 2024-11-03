@@ -1,0 +1,1 @@
+export const TbSeo: string;

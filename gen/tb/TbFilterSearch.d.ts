@@ -1,0 +1,1 @@
+export const TbFilterSearch: string;

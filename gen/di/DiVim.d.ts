@@ -1,0 +1,1 @@
+export const DiVim: string;

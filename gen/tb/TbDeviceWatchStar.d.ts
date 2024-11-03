@@ -1,0 +1,1 @@
+export const TbDeviceWatchStar: string;

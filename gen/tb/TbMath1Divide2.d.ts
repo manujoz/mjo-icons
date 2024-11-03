@@ -1,0 +1,1 @@
+export const TbMath1Divide2: string;

@@ -1,0 +1,1 @@
+export const BsFillMegaphoneFill: string;

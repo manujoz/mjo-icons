@@ -1,0 +1,1 @@
+export const HiOutlineCodeBracketSquare: string;

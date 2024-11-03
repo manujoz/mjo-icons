@@ -1,0 +1,1 @@
+export const BsCurrencyBitcoin: string;

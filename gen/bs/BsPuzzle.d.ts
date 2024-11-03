@@ -1,0 +1,1 @@
+export const BsPuzzle: string;

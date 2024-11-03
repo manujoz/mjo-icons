@@ -1,0 +1,1 @@
+export const LiaStar: string;

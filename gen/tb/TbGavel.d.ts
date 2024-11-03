@@ -1,0 +1,1 @@
+export const TbGavel: string;

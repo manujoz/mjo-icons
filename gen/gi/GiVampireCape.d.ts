@@ -1,0 +1,1 @@
+export const GiVampireCape: string;

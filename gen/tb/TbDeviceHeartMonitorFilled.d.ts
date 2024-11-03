@@ -1,0 +1,1 @@
+export const TbDeviceHeartMonitorFilled: string;

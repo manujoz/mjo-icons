@@ -1,0 +1,1 @@
+export const BsCreditCard2BackFill: string;

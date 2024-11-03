@@ -1,0 +1,1 @@
+export const TbFileTypeJs: string;

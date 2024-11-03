@@ -1,0 +1,1 @@
+export const PiGenderIntersexDuotone: string;

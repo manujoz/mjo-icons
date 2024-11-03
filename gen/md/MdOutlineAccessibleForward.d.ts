@@ -1,0 +1,1 @@
+export const MdOutlineAccessibleForward: string;

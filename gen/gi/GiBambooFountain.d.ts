@@ -1,0 +1,1 @@
+export const GiBambooFountain: string;

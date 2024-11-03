@@ -1,0 +1,1 @@
+export const FaUnlockKeyhole: string;

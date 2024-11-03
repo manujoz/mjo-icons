@@ -1,0 +1,1 @@
+export const DiJavascript1: string;

@@ -1,0 +1,1 @@
+export const BiCuboid: string;

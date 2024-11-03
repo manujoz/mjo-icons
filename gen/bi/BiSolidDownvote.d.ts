@@ -1,0 +1,1 @@
+export const BiSolidDownvote: string;

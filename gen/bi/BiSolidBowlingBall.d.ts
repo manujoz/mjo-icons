@@ -1,0 +1,1 @@
+export const BiSolidBowlingBall: string;

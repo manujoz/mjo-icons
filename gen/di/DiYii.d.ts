@@ -1,0 +1,1 @@
+export const DiYii: string;

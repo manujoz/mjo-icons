@@ -1,0 +1,1 @@
+export const GiAk47U: string;

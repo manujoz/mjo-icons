@@ -1,0 +1,1 @@
+export const MdOutlineBorderHorizontal: string;

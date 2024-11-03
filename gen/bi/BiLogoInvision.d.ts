@@ -1,0 +1,1 @@
+export const BiLogoInvision: string;

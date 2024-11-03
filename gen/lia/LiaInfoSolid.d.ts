@@ -1,0 +1,1 @@
+export const LiaInfoSolid: string;

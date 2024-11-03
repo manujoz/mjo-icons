@@ -1,0 +1,1 @@
+export const MdOutlineMergeType: string;

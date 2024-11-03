@@ -1,0 +1,1 @@
+export const PiDiceSixThin: string;

@@ -1,0 +1,1 @@
+export const GiH2O: string;

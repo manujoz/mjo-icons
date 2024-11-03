@@ -1,0 +1,1 @@
+export const BiSolidLeftTopArrowCircle: string;

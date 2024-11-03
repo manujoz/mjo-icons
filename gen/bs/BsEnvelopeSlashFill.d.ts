@@ -1,0 +1,1 @@
+export const BsEnvelopeSlashFill: string;

@@ -1,0 +1,1 @@
+export const PiSpeakerSlash: string;

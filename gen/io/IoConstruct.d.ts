@@ -1,0 +1,1 @@
+export const IoConstruct: string;

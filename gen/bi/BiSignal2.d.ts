@@ -1,0 +1,1 @@
+export const BiSignal2: string;

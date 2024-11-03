@@ -1,0 +1,1 @@
+export const BiSortAlt2: string;

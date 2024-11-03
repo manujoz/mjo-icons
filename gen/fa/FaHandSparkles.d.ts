@@ -1,0 +1,1 @@
+export const FaHandSparkles: string;

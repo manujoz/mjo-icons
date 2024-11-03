@@ -1,0 +1,1 @@
+export const LiaDiaspora: string;

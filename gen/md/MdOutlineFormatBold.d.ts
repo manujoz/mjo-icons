@@ -1,0 +1,1 @@
+export const MdOutlineFormatBold: string;

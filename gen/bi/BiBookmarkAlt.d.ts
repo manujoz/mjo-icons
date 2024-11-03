@@ -1,0 +1,1 @@
+export const BiBookmarkAlt: string;

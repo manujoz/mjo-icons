@@ -1,0 +1,1 @@
+export const WiRaindrop: string;

@@ -1,0 +1,1 @@
+export const TbAppsOff: string;

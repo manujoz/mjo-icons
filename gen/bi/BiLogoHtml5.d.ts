@@ -1,0 +1,1 @@
+export const BiLogoHtml5: string;

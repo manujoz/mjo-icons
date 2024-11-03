@@ -1,0 +1,1 @@
+export const IoDesktop: string;

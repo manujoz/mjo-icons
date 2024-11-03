@@ -1,0 +1,1 @@
+export const IoLogoHtml5: string;

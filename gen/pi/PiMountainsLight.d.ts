@@ -1,0 +1,1 @@
+export const PiMountainsLight: string;

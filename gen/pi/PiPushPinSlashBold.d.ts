@@ -1,0 +1,1 @@
+export const PiPushPinSlashBold: string;

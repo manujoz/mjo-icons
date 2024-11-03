@@ -1,0 +1,1 @@
+export const Gi3DStairs: string;

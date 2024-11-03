@@ -1,0 +1,1 @@
+export const FaGripVertical: string;

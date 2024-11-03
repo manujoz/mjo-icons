@@ -1,0 +1,1 @@
+export const DiRedis: string;

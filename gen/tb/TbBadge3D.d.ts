@@ -1,0 +1,1 @@
+export const TbBadge3D: string;

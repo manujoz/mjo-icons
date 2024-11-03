@@ -1,0 +1,1 @@
+export const GiFishScales: string;

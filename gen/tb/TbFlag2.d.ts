@@ -1,0 +1,1 @@
+export const TbFlag2: string;

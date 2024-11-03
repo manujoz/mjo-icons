@@ -1,0 +1,1 @@
+export const MdWorkspacePremium: string;

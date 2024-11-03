@@ -1,0 +1,1 @@
+export const TbStarHalf: string;

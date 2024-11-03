@@ -1,0 +1,1 @@
+export const MdNotificationsNone: string;

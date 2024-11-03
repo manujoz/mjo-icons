@@ -1,0 +1,1 @@
+export const MdOutlineCategory: string;

@@ -1,0 +1,1 @@
+export const HiOutlineBars2: string;

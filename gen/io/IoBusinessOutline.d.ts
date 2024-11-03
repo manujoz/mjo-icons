@@ -1,0 +1,1 @@
+export const IoBusinessOutline: string;

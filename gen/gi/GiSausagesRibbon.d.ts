@@ -1,0 +1,1 @@
+export const GiSausagesRibbon: string;

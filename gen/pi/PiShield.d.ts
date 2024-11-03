@@ -1,0 +1,1 @@
+export const PiShield: string;

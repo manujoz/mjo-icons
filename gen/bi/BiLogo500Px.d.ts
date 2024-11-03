@@ -1,0 +1,1 @@
+export const BiLogo500Px: string;

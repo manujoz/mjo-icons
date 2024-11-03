@@ -1,0 +1,1 @@
+export const DiNpm: string;

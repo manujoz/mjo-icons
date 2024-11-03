@@ -1,0 +1,1 @@
+export const FaDiceD6: string;

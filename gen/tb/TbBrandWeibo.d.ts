@@ -1,0 +1,1 @@
+export const TbBrandWeibo: string;

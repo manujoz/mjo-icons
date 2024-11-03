@@ -1,0 +1,1 @@
+export const HiMiniSquare2Stack: string;

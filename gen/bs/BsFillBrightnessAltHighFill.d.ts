@@ -1,0 +1,1 @@
+export const BsFillBrightnessAltHighFill: string;

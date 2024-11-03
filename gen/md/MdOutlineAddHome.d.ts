@@ -1,0 +1,1 @@
+export const MdOutlineAddHome: string;

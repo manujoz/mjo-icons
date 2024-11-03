@@ -1,0 +1,1 @@
+export const Md30FpsSelect: string;

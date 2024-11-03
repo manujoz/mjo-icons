@@ -1,0 +1,1 @@
+export const BsSortUpAlt: string;

@@ -1,0 +1,1 @@
+export const LiaCreativeCommonsPd: string;

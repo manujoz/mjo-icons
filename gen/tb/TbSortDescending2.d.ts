@@ -1,0 +1,1 @@
+export const TbSortDescending2: string;

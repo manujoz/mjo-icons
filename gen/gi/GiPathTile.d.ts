@@ -1,0 +1,1 @@
+export const GiPathTile: string;

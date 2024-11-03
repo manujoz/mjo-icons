@@ -1,0 +1,1 @@
+export const TbBrandVue: string;

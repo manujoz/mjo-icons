@@ -1,0 +1,1 @@
+export const BsSpeedometer2: string;

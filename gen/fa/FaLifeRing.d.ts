@@ -1,0 +1,1 @@
+export const FaLifeRing: string;

@@ -1,0 +1,1 @@
+export const TbRosetteNumber1: string;

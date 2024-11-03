@@ -1,0 +1,1 @@
+export const TbBrandSketch: string;

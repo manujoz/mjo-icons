@@ -1,0 +1,1 @@
+export const BsFolder2Open: string;

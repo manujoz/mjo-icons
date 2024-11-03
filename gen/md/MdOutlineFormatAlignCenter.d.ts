@@ -1,0 +1,1 @@
+export const MdOutlineFormatAlignCenter: string;

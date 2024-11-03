@@ -1,0 +1,1 @@
+export const TbMoodCrazyHappy: string;

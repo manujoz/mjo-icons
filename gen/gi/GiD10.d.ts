@@ -1,0 +1,1 @@
+export const GiD10: string;

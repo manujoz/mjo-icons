@@ -1,0 +1,1 @@
+export const GiRollerSkate: string;

@@ -1,0 +1,1 @@
+export const MdMeetingRoom: string;

@@ -1,0 +1,1 @@
+export const TbLocationDiscount: string;

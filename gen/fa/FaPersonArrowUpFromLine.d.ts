@@ -1,0 +1,1 @@
+export const FaPersonArrowUpFromLine: string;

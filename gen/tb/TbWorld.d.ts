@@ -1,0 +1,1 @@
+export const TbWorld: string;

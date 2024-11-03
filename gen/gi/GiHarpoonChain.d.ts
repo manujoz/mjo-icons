@@ -1,0 +1,1 @@
+export const GiHarpoonChain: string;

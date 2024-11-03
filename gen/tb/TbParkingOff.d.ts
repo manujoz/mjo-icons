@@ -1,0 +1,1 @@
+export const TbParkingOff: string;

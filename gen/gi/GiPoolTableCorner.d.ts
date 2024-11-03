@@ -1,0 +1,1 @@
+export const GiPoolTableCorner: string;

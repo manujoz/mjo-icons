@@ -1,0 +1,1 @@
+export const BiSkipPrevious: string;

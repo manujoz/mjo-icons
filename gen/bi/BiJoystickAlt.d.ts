@@ -1,0 +1,1 @@
+export const BiJoystickAlt: string;

@@ -1,0 +1,1 @@
+export const MdOutlineVolumeOff: string;

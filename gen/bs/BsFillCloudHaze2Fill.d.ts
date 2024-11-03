@@ -1,0 +1,1 @@
+export const BsFillCloudHaze2Fill: string;

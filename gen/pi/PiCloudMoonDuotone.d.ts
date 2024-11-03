@@ -1,0 +1,1 @@
+export const PiCloudMoonDuotone: string;

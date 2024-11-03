@@ -1,0 +1,1 @@
+export const TbSquareRoundedLetterK: string;

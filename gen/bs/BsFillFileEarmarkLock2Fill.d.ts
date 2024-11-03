@@ -1,0 +1,1 @@
+export const BsFillFileEarmarkLock2Fill: string;

@@ -1,0 +1,1 @@
+export const GiNorthStarShuriken: string;

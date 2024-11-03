@@ -1,0 +1,1 @@
+export const GiBulldozer: string;

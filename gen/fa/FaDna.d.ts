@@ -1,0 +1,1 @@
+export const FaDna: string;

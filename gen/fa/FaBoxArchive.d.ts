@@ -1,0 +1,1 @@
+export const FaBoxArchive: string;

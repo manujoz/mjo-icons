@@ -1,0 +1,1 @@
+export const WiMoonset: string;

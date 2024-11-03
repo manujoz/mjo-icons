@@ -1,0 +1,1 @@
+export const TbTallymark2: string;

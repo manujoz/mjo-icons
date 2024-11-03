@@ -1,0 +1,1 @@
+export const Tb3DRotate: string;

@@ -1,0 +1,1 @@
+export const MdLooks3: string;

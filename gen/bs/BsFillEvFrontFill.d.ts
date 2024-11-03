@@ -1,0 +1,1 @@
+export const BsFillEvFrontFill: string;

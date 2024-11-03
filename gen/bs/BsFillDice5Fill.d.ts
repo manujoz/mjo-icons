@@ -1,0 +1,1 @@
+export const BsFillDice5Fill: string;

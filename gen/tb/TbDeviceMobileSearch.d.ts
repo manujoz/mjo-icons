@@ -1,0 +1,1 @@
+export const TbDeviceMobileSearch: string;

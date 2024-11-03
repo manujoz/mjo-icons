@@ -1,0 +1,1 @@
+export const FaEnvelopeOpenText: string;

@@ -1,0 +1,1 @@
+export const HiOutlineArrowsUpDown: string;

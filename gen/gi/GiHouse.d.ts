@@ -1,0 +1,1 @@
+export const GiHouse: string;

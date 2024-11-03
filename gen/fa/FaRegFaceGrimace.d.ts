@@ -1,0 +1,1 @@
+export const FaRegFaceGrimace: string;

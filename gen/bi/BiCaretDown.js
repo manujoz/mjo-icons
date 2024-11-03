@@ -1,0 +1,1 @@
+export const BiCaretDown = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m11.998 17 7-8h-14z"></path></svg>`

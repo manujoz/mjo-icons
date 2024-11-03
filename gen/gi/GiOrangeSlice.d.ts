@@ -1,0 +1,1 @@
+export const GiOrangeSlice: string;

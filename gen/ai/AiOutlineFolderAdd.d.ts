@@ -1,0 +1,1 @@
+export const AiOutlineFolderAdd: string;

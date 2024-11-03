@@ -1,0 +1,1 @@
+export const GiImbricatedArrows: string;

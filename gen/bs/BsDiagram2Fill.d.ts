@@ -1,0 +1,1 @@
+export const BsDiagram2Fill: string;

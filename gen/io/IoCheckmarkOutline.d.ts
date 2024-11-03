@@ -1,0 +1,1 @@
+export const IoCheckmarkOutline: string;

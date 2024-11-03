@@ -1,0 +1,1 @@
+export const GiUdder: string;

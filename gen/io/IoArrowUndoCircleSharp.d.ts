@@ -1,0 +1,1 @@
+export const IoArrowUndoCircleSharp: string;

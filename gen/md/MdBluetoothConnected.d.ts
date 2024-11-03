@@ -1,0 +1,1 @@
+export const MdBluetoothConnected: string;

@@ -1,0 +1,1 @@
+export const MdStayCurrentLandscape: string;

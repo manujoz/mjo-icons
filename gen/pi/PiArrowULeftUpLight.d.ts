@@ -1,0 +1,1 @@
+export const PiArrowULeftUpLight: string;

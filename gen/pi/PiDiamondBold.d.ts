@@ -1,0 +1,1 @@
+export const PiDiamondBold: string;

@@ -1,0 +1,1 @@
+export const MdPool: string;

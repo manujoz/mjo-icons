@@ -1,0 +1,1 @@
+export const TbMoodAnnoyed2: string;

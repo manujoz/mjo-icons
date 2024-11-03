@@ -1,0 +1,1 @@
+export const GiCape: string;

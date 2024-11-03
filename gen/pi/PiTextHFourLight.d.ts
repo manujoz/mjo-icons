@@ -1,0 +1,1 @@
+export const PiTextHFourLight: string;

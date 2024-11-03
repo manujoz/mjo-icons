@@ -1,0 +1,1 @@
+export const BsFillEarFill: string;

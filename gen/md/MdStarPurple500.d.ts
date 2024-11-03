@@ -1,0 +1,1 @@
+export const MdStarPurple500: string;

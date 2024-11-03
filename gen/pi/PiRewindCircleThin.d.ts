@@ -1,0 +1,1 @@
+export const PiRewindCircleThin: string;

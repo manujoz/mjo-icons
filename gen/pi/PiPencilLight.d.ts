@@ -1,0 +1,1 @@
+export const PiPencilLight: string;

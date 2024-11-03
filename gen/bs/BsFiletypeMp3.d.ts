@@ -1,0 +1,1 @@
+export const BsFiletypeMp3: string;

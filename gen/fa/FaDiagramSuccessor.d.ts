@@ -1,0 +1,1 @@
+export const FaDiagramSuccessor: string;

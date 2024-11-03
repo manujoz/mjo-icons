@@ -1,0 +1,1 @@
+export const PiNumberFiveFill: string;

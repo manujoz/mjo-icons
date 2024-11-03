@@ -1,0 +1,1 @@
+export const GiBlacksmith: string;

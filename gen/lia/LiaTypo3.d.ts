@@ -1,0 +1,1 @@
+export const LiaTypo3: string;

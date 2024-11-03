@@ -1,0 +1,1 @@
+export const BsSave2: string;

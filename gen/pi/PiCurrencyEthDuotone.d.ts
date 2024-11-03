@@ -1,0 +1,1 @@
+export const PiCurrencyEthDuotone: string;

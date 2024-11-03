@@ -1,0 +1,1 @@
+export const PiRepeatOnceFill: string;

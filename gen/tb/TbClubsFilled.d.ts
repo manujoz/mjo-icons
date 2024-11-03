@@ -1,0 +1,1 @@
+export const TbClubsFilled: string;

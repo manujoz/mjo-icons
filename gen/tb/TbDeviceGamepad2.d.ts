@@ -1,0 +1,1 @@
+export const TbDeviceGamepad2: string;

@@ -1,0 +1,1 @@
+export const TbHourglassOff: string;

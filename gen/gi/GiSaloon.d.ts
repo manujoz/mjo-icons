@@ -1,0 +1,1 @@
+export const GiSaloon: string;

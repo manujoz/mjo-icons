@@ -1,0 +1,1 @@
+export const GiFrenchHorn: string;

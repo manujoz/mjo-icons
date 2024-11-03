@@ -1,0 +1,1 @@
+export const BiSolidGasPump: string;

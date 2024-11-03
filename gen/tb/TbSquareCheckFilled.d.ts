@@ -1,0 +1,1 @@
+export const TbSquareCheckFilled: string;

@@ -1,0 +1,1 @@
+export const PiLockKeyOpenLight: string;

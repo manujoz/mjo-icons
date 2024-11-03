@@ -1,0 +1,1 @@
+export const MdGroups3: string;

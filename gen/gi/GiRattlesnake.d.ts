@@ -1,0 +1,1 @@
+export const GiRattlesnake: string;

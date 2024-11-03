@@ -1,0 +1,1 @@
+export const MdEarbudsBattery: string;

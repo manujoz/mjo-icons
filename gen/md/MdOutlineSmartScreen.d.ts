@@ -1,0 +1,1 @@
+export const MdOutlineSmartScreen: string;

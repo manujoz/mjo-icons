@@ -1,0 +1,1 @@
+export const MdQueue: string;

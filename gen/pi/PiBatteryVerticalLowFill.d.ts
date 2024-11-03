@@ -1,0 +1,1 @@
+export const PiBatteryVerticalLowFill: string;

@@ -1,0 +1,1 @@
+export const PiNumberSquareThreeFill: string;

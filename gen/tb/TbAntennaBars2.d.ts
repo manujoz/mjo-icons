@@ -1,0 +1,1 @@
+export const TbAntennaBars2: string;

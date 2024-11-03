@@ -1,0 +1,1 @@
+export const BsQuestionOctagon: string;

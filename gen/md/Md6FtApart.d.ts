@@ -1,0 +1,1 @@
+export const Md6FtApart: string;

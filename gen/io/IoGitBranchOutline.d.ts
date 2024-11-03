@@ -1,0 +1,1 @@
+export const IoGitBranchOutline: string;

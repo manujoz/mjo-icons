@@ -1,0 +1,1 @@
+export const TbMultiplier15X: string;

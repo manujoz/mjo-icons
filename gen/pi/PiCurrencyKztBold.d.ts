@@ -1,0 +1,1 @@
+export const PiCurrencyKztBold: string;

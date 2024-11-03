@@ -1,0 +1,1 @@
+export const TbPencilCancel: string;

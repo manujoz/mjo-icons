@@ -1,0 +1,1 @@
+export const TbSettingsCheck: string;

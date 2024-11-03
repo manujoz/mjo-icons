@@ -1,0 +1,1 @@
+export const GiUndergroundCave: string;

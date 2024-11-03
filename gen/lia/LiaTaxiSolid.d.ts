@@ -1,0 +1,1 @@
+export const LiaTaxiSolid: string;

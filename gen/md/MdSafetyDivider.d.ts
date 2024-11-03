@@ -1,0 +1,1 @@
+export const MdSafetyDivider: string;

@@ -1,0 +1,1 @@
+export const BsMouse2: string;

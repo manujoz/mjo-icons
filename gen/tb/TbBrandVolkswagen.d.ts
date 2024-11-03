@@ -1,0 +1,1 @@
+export const TbBrandVolkswagen: string;

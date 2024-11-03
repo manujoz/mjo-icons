@@ -1,0 +1,1 @@
+export const PiScissorsThin: string;

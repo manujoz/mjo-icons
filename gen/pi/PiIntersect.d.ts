@@ -1,0 +1,1 @@
+export const PiIntersect: string;

@@ -1,0 +1,1 @@
+export const HiBuildingOffice2: string;

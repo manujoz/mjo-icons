@@ -1,0 +1,1 @@
+export const GiGoblinCamp: string;

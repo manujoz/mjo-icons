@@ -1,0 +1,1 @@
+export const BsClipboardCheck: string;

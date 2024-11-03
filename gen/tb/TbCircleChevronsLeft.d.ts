@@ -1,0 +1,1 @@
+export const TbCircleChevronsLeft: string;

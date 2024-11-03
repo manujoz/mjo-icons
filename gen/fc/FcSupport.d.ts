@@ -1,0 +1,1 @@
+export const FcSupport: string;

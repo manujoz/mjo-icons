@@ -1,0 +1,1 @@
+export const IoSave: string;

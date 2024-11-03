@@ -1,0 +1,1 @@
+export const BiLike: string;

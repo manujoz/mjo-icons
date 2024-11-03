@@ -1,0 +1,1 @@
+export const BsRepeat1: string;

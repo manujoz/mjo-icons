@@ -1,0 +1,1 @@
+export const BsFillGeoAltFill: string;

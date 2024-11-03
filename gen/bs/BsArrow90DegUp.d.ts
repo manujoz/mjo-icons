@@ -1,0 +1,1 @@
+export const BsArrow90DegUp: string;

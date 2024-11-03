@@ -1,0 +1,1 @@
+export const TbCircleDashedNumber3: string;

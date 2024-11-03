@@ -1,0 +1,1 @@
+export const LiaNs8: string;

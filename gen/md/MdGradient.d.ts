@@ -1,0 +1,1 @@
+export const MdGradient: string;

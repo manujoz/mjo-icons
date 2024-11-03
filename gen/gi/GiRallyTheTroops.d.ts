@@ -1,0 +1,1 @@
+export const GiRallyTheTroops: string;

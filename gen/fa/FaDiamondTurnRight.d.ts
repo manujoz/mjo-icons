@@ -1,0 +1,1 @@
+export const FaDiamondTurnRight: string;

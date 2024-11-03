@@ -1,0 +1,1 @@
+export const PiAtFill: string;

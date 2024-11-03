@@ -1,0 +1,1 @@
+export const BiScatterChart: string;

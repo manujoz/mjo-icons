@@ -1,0 +1,1 @@
+export const PiWebcamBold: string;

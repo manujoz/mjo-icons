@@ -1,0 +1,1 @@
+export const TbFilterFilled: string;

@@ -1,0 +1,1 @@
+export const PiBankBold: string;

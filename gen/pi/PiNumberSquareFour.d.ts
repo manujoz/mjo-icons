@@ -1,0 +1,1 @@
+export const PiNumberSquareFour: string;

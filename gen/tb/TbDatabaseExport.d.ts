@@ -1,0 +1,1 @@
+export const TbDatabaseExport: string;

@@ -1,0 +1,1 @@
+export const TbFilterShare: string;

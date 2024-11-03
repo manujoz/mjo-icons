@@ -1,0 +1,1 @@
+export const BsDropbox: string;

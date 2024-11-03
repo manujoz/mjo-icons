@@ -1,0 +1,1 @@
+export const FaCanadianMapleLeaf: string;

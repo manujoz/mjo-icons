@@ -1,0 +1,1 @@
+export const MdPersonAddAlt1: string;

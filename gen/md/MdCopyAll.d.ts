@@ -1,0 +1,1 @@
+export const MdCopyAll: string;

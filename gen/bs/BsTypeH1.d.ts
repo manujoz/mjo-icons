@@ -1,0 +1,1 @@
+export const BsTypeH1: string;

@@ -1,0 +1,1 @@
+export const MdOutlineQueryBuilder: string;

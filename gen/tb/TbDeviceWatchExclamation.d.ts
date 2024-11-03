@@ -1,0 +1,1 @@
+export const TbDeviceWatchExclamation: string;

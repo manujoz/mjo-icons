@@ -1,0 +1,1 @@
+export const BsFillArrowLeftSquareFill: string;

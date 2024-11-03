@@ -1,0 +1,1 @@
+export const TbBrandAbstract: string;

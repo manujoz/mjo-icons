@@ -1,0 +1,1 @@
+export const FaLeftLong: string;

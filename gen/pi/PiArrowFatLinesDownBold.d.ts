@@ -1,0 +1,1 @@
+export const PiArrowFatLinesDownBold: string;

@@ -1,0 +1,1 @@
+export const GiShuriken: string;

@@ -1,0 +1,1 @@
+export const PiUserCircle: string;

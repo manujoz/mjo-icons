@@ -1,0 +1,1 @@
+export const PiCheckFatThin: string;

@@ -1,0 +1,1 @@
+export const LiaWalkingSolid: string;

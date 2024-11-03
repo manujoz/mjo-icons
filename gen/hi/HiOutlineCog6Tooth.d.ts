@@ -1,0 +1,1 @@
+export const HiOutlineCog6Tooth: string;

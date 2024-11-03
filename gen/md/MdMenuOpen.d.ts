@@ -1,0 +1,1 @@
+export const MdMenuOpen: string;

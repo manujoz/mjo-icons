@@ -1,0 +1,1 @@
+export const BsPersonVideo3: string;

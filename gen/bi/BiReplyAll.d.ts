@@ -1,0 +1,1 @@
+export const BiReplyAll: string;

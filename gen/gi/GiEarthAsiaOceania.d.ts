@@ -1,0 +1,1 @@
+export const GiEarthAsiaOceania: string;

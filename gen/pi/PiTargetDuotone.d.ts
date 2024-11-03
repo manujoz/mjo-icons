@@ -1,0 +1,1 @@
+export const PiTargetDuotone: string;

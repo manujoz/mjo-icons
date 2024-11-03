@@ -1,0 +1,1 @@
+export const GiWaterDivinerStick: string;

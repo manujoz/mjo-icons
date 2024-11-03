@@ -1,0 +1,1 @@
+export const MdGrid4X4: string;

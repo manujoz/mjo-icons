@@ -1,0 +1,1 @@
+export const BsSafe: string;

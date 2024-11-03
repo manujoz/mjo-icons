@@ -1,0 +1,1 @@
+export const TbBrandHtml5: string;

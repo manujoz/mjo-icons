@@ -1,0 +1,1 @@
+export const TbContrast2: string;

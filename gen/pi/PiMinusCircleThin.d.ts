@@ -1,0 +1,1 @@
+export const PiMinusCircleThin: string;

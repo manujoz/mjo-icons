@@ -1,0 +1,1 @@
+export const TbTopologyStar3: string;

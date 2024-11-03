@@ -1,0 +1,1 @@
+export const FaRegMoneyBill1: string;

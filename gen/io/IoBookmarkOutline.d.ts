@@ -1,0 +1,1 @@
+export const IoBookmarkOutline: string;

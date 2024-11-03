@@ -1,0 +1,1 @@
+export const TbExposurePlus1: string;

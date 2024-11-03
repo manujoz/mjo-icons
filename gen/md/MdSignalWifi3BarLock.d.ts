@@ -1,0 +1,1 @@
+export const MdSignalWifi3BarLock: string;

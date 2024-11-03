@@ -1,0 +1,1 @@
+export const TbPennant: string;

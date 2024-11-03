@@ -1,0 +1,1 @@
+export const TbCertificate2: string;

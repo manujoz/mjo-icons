@@ -1,0 +1,1 @@
+export const IoLogoSteam: string;

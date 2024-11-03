@@ -1,0 +1,1 @@
+export const TbIceCream2: string;

@@ -1,0 +1,1 @@
+export const BiCaretRight = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m9 19 8-7-8-7z"></path></svg>`

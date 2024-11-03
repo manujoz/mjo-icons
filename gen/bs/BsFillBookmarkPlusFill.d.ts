@@ -1,0 +1,1 @@
+export const BsFillBookmarkPlusFill: string;

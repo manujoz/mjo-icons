@@ -1,0 +1,1 @@
+export const TbCone2: string;

@@ -1,0 +1,1 @@
+export const PiCornersOutLight: string;

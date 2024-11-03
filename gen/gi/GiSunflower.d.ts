@@ -1,0 +1,1 @@
+export const GiSunflower: string;

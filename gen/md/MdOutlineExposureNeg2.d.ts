@@ -1,0 +1,1 @@
+export const MdOutlineExposureNeg2: string;

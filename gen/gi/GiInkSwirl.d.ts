@@ -1,0 +1,1 @@
+export const GiInkSwirl: string;

@@ -1,0 +1,1 @@
+export const BiVolumeLow: string;

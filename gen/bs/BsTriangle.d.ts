@@ -1,0 +1,1 @@
+export const BsTriangle: string;

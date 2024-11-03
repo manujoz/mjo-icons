@@ -1,0 +1,1 @@
+export const GiHiking: string;

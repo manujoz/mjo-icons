@@ -1,0 +1,1 @@
+export const BiLeftDownArrowCircle: string;

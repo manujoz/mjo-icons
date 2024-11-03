@@ -1,0 +1,1 @@
+export const DiMaterializecss: string;

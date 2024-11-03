@@ -1,0 +1,1 @@
+export const GiP90: string;

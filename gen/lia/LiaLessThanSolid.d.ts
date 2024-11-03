@@ -1,0 +1,1 @@
+export const LiaLessThanSolid: string;

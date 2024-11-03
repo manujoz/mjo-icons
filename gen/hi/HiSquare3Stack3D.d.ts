@@ -1,0 +1,1 @@
+export const HiSquare3Stack3D: string;

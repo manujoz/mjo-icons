@@ -1,0 +1,1 @@
+export const PiWifiNone: string;

@@ -1,0 +1,1 @@
+export const GiShatteredGlass: string;

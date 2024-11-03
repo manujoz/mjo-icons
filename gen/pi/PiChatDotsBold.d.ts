@@ -1,0 +1,1 @@
+export const PiChatDotsBold: string;

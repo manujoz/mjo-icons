@@ -1,0 +1,1 @@
+export const PiDivideFill: string;

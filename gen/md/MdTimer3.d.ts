@@ -1,0 +1,1 @@
+export const MdTimer3: string;

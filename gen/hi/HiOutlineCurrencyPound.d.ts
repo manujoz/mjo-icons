@@ -1,0 +1,1 @@
+export const HiOutlineCurrencyPound: string;

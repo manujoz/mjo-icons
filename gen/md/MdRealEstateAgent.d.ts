@@ -1,0 +1,1 @@
+export const MdRealEstateAgent: string;

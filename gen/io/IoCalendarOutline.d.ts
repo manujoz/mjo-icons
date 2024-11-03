@@ -1,0 +1,1 @@
+export const IoCalendarOutline: string;

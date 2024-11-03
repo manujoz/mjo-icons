@@ -1,0 +1,1 @@
+export const PiCompassTool: string;

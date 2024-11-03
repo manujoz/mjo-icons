@@ -1,0 +1,1 @@
+export const PiTextHOneLight: string;

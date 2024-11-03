@@ -1,0 +1,1 @@
+export const IoTransgenderOutline: string;

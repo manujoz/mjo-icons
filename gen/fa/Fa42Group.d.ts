@@ -1,0 +1,1 @@
+export const Fa42Group: string;

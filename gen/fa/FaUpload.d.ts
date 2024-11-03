@@ -1,0 +1,1 @@
+export const FaUpload: string;

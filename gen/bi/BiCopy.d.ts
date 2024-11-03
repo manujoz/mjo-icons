@@ -1,0 +1,1 @@
+export const BiCopy: string;

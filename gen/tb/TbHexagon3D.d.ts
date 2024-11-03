@@ -1,0 +1,1 @@
+export const TbHexagon3D: string;

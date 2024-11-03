@@ -1,0 +1,1 @@
+export const PiCaretDoubleDownDuotone: string;

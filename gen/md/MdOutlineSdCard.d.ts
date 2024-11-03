@@ -1,0 +1,1 @@
+export const MdOutlineSdCard: string;

@@ -1,0 +1,1 @@
+export const BiSolidKeyboard: string;

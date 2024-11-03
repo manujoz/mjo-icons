@@ -1,0 +1,1 @@
+export const PiStethoscopeLight: string;

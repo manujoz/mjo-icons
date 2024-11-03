@@ -1,0 +1,1 @@
+export const PiCalendarPlusLight: string;

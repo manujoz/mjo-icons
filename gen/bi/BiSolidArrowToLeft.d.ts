@@ -1,0 +1,1 @@
+export const BiSolidArrowToLeft: string;

@@ -1,0 +1,1 @@
+export const PiEggFill: string;

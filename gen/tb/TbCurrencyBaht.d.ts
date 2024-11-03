@@ -1,0 +1,1 @@
+export const TbCurrencyBaht: string;

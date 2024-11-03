@@ -1,0 +1,1 @@
+export const BiLogoPhp: string;

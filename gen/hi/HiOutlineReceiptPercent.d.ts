@@ -1,0 +1,1 @@
+export const HiOutlineReceiptPercent: string;

@@ -1,0 +1,1 @@
+export const MdOutlineGrid4X4: string;

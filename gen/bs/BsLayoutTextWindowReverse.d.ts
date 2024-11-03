@@ -1,0 +1,1 @@
+export const BsLayoutTextWindowReverse: string;

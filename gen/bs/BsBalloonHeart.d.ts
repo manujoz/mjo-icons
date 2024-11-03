@@ -1,0 +1,1 @@
+export const BsBalloonHeart: string;

@@ -1,0 +1,1 @@
+export const FaDiscourse: string;

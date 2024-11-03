@@ -1,0 +1,1 @@
+export const IoRemoveCircleSharp: string;

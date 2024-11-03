@@ -1,0 +1,1 @@
+export const GiEvilBook: string;

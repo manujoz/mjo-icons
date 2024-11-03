@@ -1,0 +1,1 @@
+export const PiPlugChargingBold: string;

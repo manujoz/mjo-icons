@@ -1,0 +1,1 @@
+export const MdBabyChangingStation: string;

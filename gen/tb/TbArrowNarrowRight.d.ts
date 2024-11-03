@@ -1,0 +1,1 @@
+export const TbArrowNarrowRight: string;

@@ -1,0 +1,1 @@
+export const TbBorderStyle2: string;

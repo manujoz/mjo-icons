@@ -1,0 +1,1 @@
+export const GiBattery50: string;

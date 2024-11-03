@@ -1,0 +1,1 @@
+export const GiLookAt: string;

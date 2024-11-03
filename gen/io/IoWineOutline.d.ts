@@ -1,0 +1,1 @@
+export const IoWineOutline: string;

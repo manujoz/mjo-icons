@@ -1,0 +1,1 @@
+export const IoBookOutline: string;

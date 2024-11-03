@@ -1,0 +1,1 @@
+export const MdMan2: string;

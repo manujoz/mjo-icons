@@ -1,0 +1,1 @@
+export const TbLogin2: string;

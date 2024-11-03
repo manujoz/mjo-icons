@@ -1,0 +1,1 @@
+export const HiSquares2X2: string;

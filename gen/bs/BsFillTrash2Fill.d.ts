@@ -1,0 +1,1 @@
+export const BsFillTrash2Fill: string;

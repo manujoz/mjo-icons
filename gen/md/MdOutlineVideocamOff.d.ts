@@ -1,0 +1,1 @@
+export const MdOutlineVideocamOff: string;

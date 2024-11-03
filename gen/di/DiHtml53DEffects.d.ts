@@ -1,0 +1,1 @@
+export const DiHtml53DEffects: string;

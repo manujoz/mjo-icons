@@ -1,0 +1,1 @@
+export const AiFillDribbbleCircle: string;

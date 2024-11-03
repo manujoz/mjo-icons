@@ -1,0 +1,1 @@
+export const TbHexagonNumber4: string;

@@ -1,0 +1,1 @@
+export const AiOutlineFileAdd: string;

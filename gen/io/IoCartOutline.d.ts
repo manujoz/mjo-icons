@@ -1,0 +1,1 @@
+export const IoCartOutline: string;

@@ -1,0 +1,1 @@
+export const GiSquid: string;

@@ -1,0 +1,1 @@
+export const PiBrowserDuotone: string;

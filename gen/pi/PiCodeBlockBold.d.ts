@@ -1,0 +1,1 @@
+export const PiCodeBlockBold: string;

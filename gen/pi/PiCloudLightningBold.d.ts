@@ -1,0 +1,1 @@
+export const PiCloudLightningBold: string;

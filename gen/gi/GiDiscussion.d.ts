@@ -1,0 +1,1 @@
+export const GiDiscussion: string;

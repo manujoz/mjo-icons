@@ -1,0 +1,1 @@
+export const TbHexagonOff: string;

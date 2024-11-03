@@ -1,0 +1,1 @@
+export const TbSlideshow: string;

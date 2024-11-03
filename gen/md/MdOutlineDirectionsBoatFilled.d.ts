@@ -1,0 +1,1 @@
+export const MdOutlineDirectionsBoatFilled: string;

@@ -1,0 +1,1 @@
+export const BsChatLeftHeartFill: string;

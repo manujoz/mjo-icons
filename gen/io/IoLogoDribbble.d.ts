@@ -1,0 +1,1 @@
+export const IoLogoDribbble: string;

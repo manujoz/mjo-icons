@@ -1,0 +1,1 @@
+export const PiNotePencilLight: string;

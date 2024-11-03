@@ -1,0 +1,1 @@
+export const TbCircle3Filled: string;

@@ -1,0 +1,1 @@
+export const PiMicrosoftExcelLogoLight: string;

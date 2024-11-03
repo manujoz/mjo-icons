@@ -1,0 +1,1 @@
+export const HiChevronDoubleUp: string;

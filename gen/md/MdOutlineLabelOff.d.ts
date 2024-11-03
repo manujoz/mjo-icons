@@ -1,0 +1,1 @@
+export const MdOutlineLabelOff: string;

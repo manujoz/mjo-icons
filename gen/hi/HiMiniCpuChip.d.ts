@@ -1,0 +1,1 @@
+export const HiMiniCpuChip: string;

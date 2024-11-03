@@ -1,0 +1,1 @@
+export const TbSignal4GPlus: string;

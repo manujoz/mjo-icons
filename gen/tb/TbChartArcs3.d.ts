@@ -1,0 +1,1 @@
+export const TbChartArcs3: string;

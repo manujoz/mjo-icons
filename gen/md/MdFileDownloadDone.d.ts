@@ -1,0 +1,1 @@
+export const MdFileDownloadDone: string;

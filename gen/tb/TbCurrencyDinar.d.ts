@@ -1,0 +1,1 @@
+export const TbCurrencyDinar: string;

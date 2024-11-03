@@ -1,0 +1,1 @@
+export const PiSpeakerLowBold: string;

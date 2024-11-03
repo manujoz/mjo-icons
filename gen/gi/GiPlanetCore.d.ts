@@ -1,0 +1,1 @@
+export const GiPlanetCore: string;

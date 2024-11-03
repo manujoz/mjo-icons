@@ -1,0 +1,1 @@
+export const BiSolidSearchAlt2: string;

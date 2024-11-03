@@ -1,0 +1,1 @@
+export const LiaSmileBeamSolid: string;

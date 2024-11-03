@@ -1,0 +1,1 @@
+export const PiThermometerSimpleFill: string;

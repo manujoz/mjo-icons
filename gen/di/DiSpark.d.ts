@@ -1,0 +1,1 @@
+export const DiSpark: string;

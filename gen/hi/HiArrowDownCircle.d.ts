@@ -1,0 +1,1 @@
+export const HiArrowDownCircle: string;

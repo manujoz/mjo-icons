@@ -1,0 +1,1 @@
+export const PiStop: string;

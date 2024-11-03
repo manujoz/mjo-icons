@@ -1,0 +1,1 @@
+export const PiContactlessPayment: string;

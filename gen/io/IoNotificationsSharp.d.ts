@@ -1,0 +1,1 @@
+export const IoNotificationsSharp: string;

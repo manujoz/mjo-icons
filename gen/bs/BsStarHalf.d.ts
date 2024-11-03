@@ -1,0 +1,1 @@
+export const BsStarHalf: string;

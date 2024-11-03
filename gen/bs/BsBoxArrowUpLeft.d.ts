@@ -1,0 +1,1 @@
+export const BsBoxArrowUpLeft: string;

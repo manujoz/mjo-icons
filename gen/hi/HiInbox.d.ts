@@ -1,0 +1,1 @@
+export const HiInbox: string;

@@ -1,0 +1,1 @@
+export const Tb2Fa: string;

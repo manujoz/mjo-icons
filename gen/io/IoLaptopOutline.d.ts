@@ -1,0 +1,1 @@
+export const IoLaptopOutline: string;

@@ -1,0 +1,1 @@
+export const PiChatTextFill: string;

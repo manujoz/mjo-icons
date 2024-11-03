@@ -1,0 +1,1 @@
+export const PiTagSimpleThin: string;

@@ -1,0 +1,1 @@
+export const GiCrab: string;

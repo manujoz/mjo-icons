@@ -1,0 +1,1 @@
+export const FaAnchorCircleCheck: string;

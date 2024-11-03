@@ -1,0 +1,1 @@
+export const Fa6: string;

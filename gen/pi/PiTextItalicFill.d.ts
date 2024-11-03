@@ -1,0 +1,1 @@
+export const PiTextItalicFill: string;

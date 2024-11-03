@@ -1,0 +1,1 @@
+export const IoEllipsisHorizontalCircleOutline: string;

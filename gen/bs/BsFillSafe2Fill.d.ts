@@ -1,0 +1,1 @@
+export const BsFillSafe2Fill: string;

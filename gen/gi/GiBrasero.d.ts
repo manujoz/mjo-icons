@@ -1,0 +1,1 @@
+export const GiBrasero: string;

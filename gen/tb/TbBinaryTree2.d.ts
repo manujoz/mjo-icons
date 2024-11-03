@@ -1,0 +1,1 @@
+export const TbBinaryTree2: string;

@@ -1,0 +1,1 @@
+export const TbFileMusic: string;

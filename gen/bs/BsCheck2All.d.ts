@@ -1,0 +1,1 @@
+export const BsCheck2All: string;

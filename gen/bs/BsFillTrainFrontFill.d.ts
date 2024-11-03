@@ -1,0 +1,1 @@
+export const BsFillTrainFrontFill: string;

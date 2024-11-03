@@ -1,0 +1,1 @@
+export const BiBriefcaseAlt2: string;

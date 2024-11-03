@@ -1,0 +1,1 @@
+export const GiStigmata: string;

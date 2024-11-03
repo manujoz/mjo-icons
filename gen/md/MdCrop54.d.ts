@@ -1,0 +1,1 @@
+export const MdCrop54: string;

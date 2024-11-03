@@ -1,0 +1,1 @@
+export const IoChevronUpSharp: string;

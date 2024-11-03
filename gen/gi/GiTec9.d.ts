@@ -1,0 +1,1 @@
+export const GiTec9: string;

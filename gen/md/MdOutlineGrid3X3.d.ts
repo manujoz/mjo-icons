@@ -1,0 +1,1 @@
+export const MdOutlineGrid3X3: string;

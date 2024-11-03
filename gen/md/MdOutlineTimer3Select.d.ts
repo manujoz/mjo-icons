@@ -1,0 +1,1 @@
+export const MdOutlineTimer3Select: string;

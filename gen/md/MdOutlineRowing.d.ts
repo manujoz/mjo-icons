@@ -1,0 +1,1 @@
+export const MdOutlineRowing: string;

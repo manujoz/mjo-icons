@@ -1,0 +1,1 @@
+export const BsFillEmojiSmileUpsideDownFill: string;

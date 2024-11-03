@@ -1,0 +1,1 @@
+export const BsGrid1X2: string;

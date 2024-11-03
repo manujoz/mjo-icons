@@ -1,0 +1,1 @@
+export const BiSolidUpArrowSquare: string;

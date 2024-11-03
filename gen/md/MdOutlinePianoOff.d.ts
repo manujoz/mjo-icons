@@ -1,0 +1,1 @@
+export const MdOutlinePianoOff: string;

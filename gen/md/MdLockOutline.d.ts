@@ -1,0 +1,1 @@
+export const MdLockOutline: string;

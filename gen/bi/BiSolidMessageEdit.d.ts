@@ -1,0 +1,1 @@
+export const BiSolidMessageEdit: string;

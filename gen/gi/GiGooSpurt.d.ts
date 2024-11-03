@@ -1,0 +1,1 @@
+export const GiGooSpurt: string;

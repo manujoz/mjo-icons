@@ -1,0 +1,1 @@
+export const PiEscalatorUp: string;

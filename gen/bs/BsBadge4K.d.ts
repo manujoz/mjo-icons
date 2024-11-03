@@ -1,0 +1,1 @@
+export const BsBadge4K: string;

@@ -1,0 +1,1 @@
+export const TbBrightness2: string;

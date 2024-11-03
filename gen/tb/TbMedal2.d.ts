@@ -1,0 +1,1 @@
+export const TbMedal2: string;

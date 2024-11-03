@@ -1,0 +1,1 @@
+export const PiRectangleFill = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="currentColor"><rect x="24" y="40" width="208" height="176" rx="16"></rect></svg>`

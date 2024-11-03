@@ -1,0 +1,1 @@
+export const MdInvertColorsOff: string;

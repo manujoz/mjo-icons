@@ -1,0 +1,1 @@
+export const BiBarChartAlt2: string;

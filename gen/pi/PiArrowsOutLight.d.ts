@@ -1,0 +1,1 @@
+export const PiArrowsOutLight: string;

@@ -1,0 +1,1 @@
+export const MdKeyboardVoice: string;

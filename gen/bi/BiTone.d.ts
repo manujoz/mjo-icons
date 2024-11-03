@@ -1,0 +1,1 @@
+export const BiTone: string;

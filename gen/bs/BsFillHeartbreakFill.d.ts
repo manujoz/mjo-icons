@@ -1,0 +1,1 @@
+export const BsFillHeartbreakFill: string;

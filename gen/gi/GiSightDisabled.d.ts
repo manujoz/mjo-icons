@@ -1,0 +1,1 @@
+export const GiSightDisabled: string;

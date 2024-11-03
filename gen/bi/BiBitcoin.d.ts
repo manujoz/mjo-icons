@@ -1,0 +1,1 @@
+export const BiBitcoin: string;

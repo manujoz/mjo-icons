@@ -1,0 +1,1 @@
+export const TbDeviceWatchHeart: string;

@@ -1,0 +1,1 @@
+export const TbView360Off: string;

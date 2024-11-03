@@ -1,0 +1,1 @@
+export const PiHardDriveThin: string;

@@ -1,0 +1,1 @@
+export const MdBungalow: string;

@@ -1,0 +1,1 @@
+export const MdOutlineSkipNext: string;

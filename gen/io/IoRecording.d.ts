@@ -1,0 +1,1 @@
+export const IoRecording: string;

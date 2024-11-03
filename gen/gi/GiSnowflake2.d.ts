@@ -1,0 +1,1 @@
+export const GiSnowflake2: string;

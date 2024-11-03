@@ -1,0 +1,1 @@
+export const PiUserCircleGearBold: string;

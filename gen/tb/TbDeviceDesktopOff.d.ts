@@ -1,0 +1,1 @@
+export const TbDeviceDesktopOff: string;

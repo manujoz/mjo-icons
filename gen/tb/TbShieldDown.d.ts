@@ -1,0 +1,1 @@
+export const TbShieldDown: string;

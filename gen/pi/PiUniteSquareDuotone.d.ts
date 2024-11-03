@@ -1,0 +1,1 @@
+export const PiUniteSquareDuotone: string;

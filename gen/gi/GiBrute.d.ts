@@ -1,0 +1,1 @@
+export const GiBrute: string;

@@ -1,0 +1,1 @@
+export const IoWoman: string;

@@ -1,0 +1,1 @@
+export const MdOutlineSettingsApplications: string;

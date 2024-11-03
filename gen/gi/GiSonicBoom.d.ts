@@ -1,0 +1,1 @@
+export const GiSonicBoom: string;

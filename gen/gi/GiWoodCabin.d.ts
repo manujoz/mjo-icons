@@ -1,0 +1,1 @@
+export const GiWoodCabin: string;

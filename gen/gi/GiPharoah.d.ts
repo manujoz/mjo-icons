@@ -1,0 +1,1 @@
+export const GiPharoah: string;

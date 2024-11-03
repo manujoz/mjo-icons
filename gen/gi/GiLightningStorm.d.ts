@@ -1,0 +1,1 @@
+export const GiLightningStorm: string;

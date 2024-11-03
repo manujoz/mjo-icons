@@ -1,0 +1,1 @@
+export const HiOutlineAdjustmentsVertical: string;

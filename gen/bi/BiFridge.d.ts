@@ -1,0 +1,1 @@
+export const BiFridge: string;

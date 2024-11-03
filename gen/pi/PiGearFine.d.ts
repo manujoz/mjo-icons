@@ -1,0 +1,1 @@
+export const PiGearFine: string;

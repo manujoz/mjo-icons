@@ -1,0 +1,1 @@
+export const GiJigsawBox: string;

@@ -1,0 +1,1 @@
+export const TbTextDirectionRtl: string;

@@ -1,0 +1,1 @@
+export const FaRegFaceLaughWink: string;

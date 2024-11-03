@@ -1,0 +1,1 @@
+export const TbMathMax: string;

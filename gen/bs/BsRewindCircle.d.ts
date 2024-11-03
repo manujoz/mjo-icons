@@ -1,0 +1,1 @@
+export const BsRewindCircle: string;

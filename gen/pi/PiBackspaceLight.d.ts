@@ -1,0 +1,1 @@
+export const PiBackspaceLight: string;

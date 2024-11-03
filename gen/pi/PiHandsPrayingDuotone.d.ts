@@ -1,0 +1,1 @@
+export const PiHandsPrayingDuotone: string;

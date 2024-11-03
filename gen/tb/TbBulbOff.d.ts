@@ -1,0 +1,1 @@
+export const TbBulbOff: string;

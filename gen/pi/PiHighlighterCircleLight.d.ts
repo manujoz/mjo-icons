@@ -1,0 +1,1 @@
+export const PiHighlighterCircleLight: string;

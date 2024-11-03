@@ -1,0 +1,1 @@
+export const PiCloudWarningFill: string;

@@ -1,0 +1,1 @@
+export const MdOutlineFilterCenterFocus: string;

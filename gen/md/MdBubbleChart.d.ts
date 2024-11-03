@@ -1,0 +1,1 @@
+export const MdBubbleChart: string;

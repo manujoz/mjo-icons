@@ -1,0 +1,1 @@
+export const MdShop2: string;

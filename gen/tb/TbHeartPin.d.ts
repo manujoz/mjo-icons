@@ -1,0 +1,1 @@
+export const TbHeartPin: string;

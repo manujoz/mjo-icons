@@ -1,0 +1,1 @@
+export const BsGrid3X2Gap: string;

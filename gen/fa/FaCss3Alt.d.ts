@@ -1,0 +1,1 @@
+export const FaCss3Alt: string;

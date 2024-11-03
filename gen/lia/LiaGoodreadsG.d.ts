@@ -1,0 +1,1 @@
+export const LiaGoodreadsG: string;

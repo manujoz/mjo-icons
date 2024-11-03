@@ -1,0 +1,1 @@
+export const TbFocus2: string;

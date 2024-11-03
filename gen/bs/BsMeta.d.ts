@@ -1,0 +1,1 @@
+export const BsMeta: string;

@@ -1,0 +1,1 @@
+export const TbMessage2Star: string;

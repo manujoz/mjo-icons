@@ -1,0 +1,1 @@
+export const MdOutlineHotTub: string;

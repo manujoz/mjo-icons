@@ -1,0 +1,1 @@
+export const HiOutlineSquare2Stack: string;

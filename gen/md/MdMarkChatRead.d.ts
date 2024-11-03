@@ -1,0 +1,1 @@
+export const MdMarkChatRead: string;

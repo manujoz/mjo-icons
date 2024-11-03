@@ -1,0 +1,1 @@
+export const BsFillDice2Fill: string;

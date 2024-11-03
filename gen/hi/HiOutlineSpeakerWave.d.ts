@@ -1,0 +1,1 @@
+export const HiOutlineSpeakerWave: string;

@@ -1,0 +1,1 @@
+export const HiBackspace: string;

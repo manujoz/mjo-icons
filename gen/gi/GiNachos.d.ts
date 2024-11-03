@@ -1,0 +1,1 @@
+export const GiNachos: string;

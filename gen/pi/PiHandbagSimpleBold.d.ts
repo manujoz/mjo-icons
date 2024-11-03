@@ -1,0 +1,1 @@
+export const PiHandbagSimpleBold: string;

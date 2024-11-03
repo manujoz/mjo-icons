@@ -1,0 +1,1 @@
+export const TbOlympicsOff: string;

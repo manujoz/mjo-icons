@@ -1,0 +1,1 @@
+export const Tb123: string;

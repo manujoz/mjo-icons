@@ -1,0 +1,1 @@
+export const BsEasel3Fill: string;

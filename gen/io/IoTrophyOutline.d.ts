@@ -1,0 +1,1 @@
+export const IoTrophyOutline: string;

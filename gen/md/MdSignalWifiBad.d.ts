@@ -1,0 +1,1 @@
+export const MdSignalWifiBad: string;

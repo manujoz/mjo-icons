@@ -1,0 +1,1 @@
+export const BsFillCloudMinusFill: string;

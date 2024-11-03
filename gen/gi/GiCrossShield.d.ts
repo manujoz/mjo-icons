@@ -1,0 +1,1 @@
+export const GiCrossShield: string;

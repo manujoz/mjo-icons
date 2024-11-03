@@ -1,0 +1,1 @@
+export const WiMoonAltWaxingGibbous1: string;

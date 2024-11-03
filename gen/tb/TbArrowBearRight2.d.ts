@@ -1,0 +1,1 @@
+export const TbArrowBearRight2: string;

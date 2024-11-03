@@ -1,0 +1,1 @@
+export const GiSmitten: string;

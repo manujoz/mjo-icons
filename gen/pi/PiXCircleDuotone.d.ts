@@ -1,0 +1,1 @@
+export const PiXCircleDuotone: string;

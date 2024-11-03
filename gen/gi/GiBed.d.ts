@@ -1,0 +1,1 @@
+export const GiBed: string;

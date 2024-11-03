@@ -1,0 +1,1 @@
+export const FcIcons8Cup: string;

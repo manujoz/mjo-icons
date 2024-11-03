@@ -1,0 +1,1 @@
+export const FcRightUp: string;

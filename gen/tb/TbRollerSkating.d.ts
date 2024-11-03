@@ -1,0 +1,1 @@
+export const TbRollerSkating: string;

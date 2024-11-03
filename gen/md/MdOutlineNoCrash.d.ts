@@ -1,0 +1,1 @@
+export const MdOutlineNoCrash: string;

@@ -1,0 +1,1 @@
+export const GiCrenulatedShield: string;

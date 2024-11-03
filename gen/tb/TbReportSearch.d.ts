@@ -1,0 +1,1 @@
+export const TbReportSearch: string;

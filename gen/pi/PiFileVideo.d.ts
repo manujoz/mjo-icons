@@ -1,0 +1,1 @@
+export const PiFileVideo: string;

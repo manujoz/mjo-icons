@@ -1,0 +1,1 @@
+export const GiVibratingSmartphone: string;

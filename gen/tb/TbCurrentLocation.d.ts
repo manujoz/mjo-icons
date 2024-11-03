@@ -1,0 +1,1 @@
+export const TbCurrentLocation: string;

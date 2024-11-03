@@ -1,0 +1,1 @@
+export const LiaAddressCardSolid: string;

@@ -1,0 +1,1 @@
+export const TbArrowRampRight2: string;

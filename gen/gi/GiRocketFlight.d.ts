@@ -1,0 +1,1 @@
+export const GiRocketFlight: string;

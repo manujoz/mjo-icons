@@ -1,0 +1,1 @@
+export const MdOutlineCreditCard: string;

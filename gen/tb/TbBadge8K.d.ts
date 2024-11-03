@@ -1,0 +1,1 @@
+export const TbBadge8K: string;

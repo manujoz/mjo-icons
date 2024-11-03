@@ -1,0 +1,1 @@
+export const PiChair: string;

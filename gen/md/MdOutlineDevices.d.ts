@@ -1,0 +1,1 @@
+export const MdOutlineDevices: string;

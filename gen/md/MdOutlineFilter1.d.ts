@@ -1,0 +1,1 @@
+export const MdOutlineFilter1: string;

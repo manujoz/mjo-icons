@@ -1,0 +1,1 @@
+export const GiTicTacToe: string;

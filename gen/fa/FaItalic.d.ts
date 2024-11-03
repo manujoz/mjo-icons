@@ -1,0 +1,1 @@
+export const FaItalic: string;

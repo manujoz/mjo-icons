@@ -1,0 +1,1 @@
+export const GiLoincloth: string;

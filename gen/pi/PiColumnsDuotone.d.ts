@@ -1,0 +1,1 @@
+export const PiColumnsDuotone: string;

@@ -1,0 +1,1 @@
+export const PiUploadSimpleBold: string;

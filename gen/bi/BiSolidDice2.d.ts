@@ -1,0 +1,1 @@
+export const BiSolidDice2: string;

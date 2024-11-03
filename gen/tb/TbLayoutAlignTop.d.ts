@@ -1,0 +1,1 @@
+export const TbLayoutAlignTop: string;

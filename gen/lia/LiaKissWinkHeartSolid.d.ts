@@ -1,0 +1,1 @@
+export const LiaKissWinkHeartSolid: string;

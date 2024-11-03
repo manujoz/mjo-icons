@@ -1,0 +1,1 @@
+export const TbNavigationMinus: string;

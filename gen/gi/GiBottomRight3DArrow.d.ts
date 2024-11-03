@@ -1,0 +1,1 @@
+export const GiBottomRight3DArrow: string;

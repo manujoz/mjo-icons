@@ -1,0 +1,1 @@
+export const LiaHandSpockSolid: string;

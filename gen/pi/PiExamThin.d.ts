@@ -1,0 +1,1 @@
+export const PiExamThin: string;

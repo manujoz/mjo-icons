@@ -1,0 +1,1 @@
+export const MdOutlineSignalWifiConnectedNoInternet4: string;

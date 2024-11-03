@@ -1,0 +1,1 @@
+export const PiTaxiLight: string;

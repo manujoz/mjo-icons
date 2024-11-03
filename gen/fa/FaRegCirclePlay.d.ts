@@ -1,0 +1,1 @@
+export const FaRegCirclePlay: string;

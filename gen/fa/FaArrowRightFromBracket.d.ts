@@ -1,0 +1,1 @@
+export const FaArrowRightFromBracket: string;

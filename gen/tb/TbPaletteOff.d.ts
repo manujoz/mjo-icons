@@ -1,0 +1,1 @@
+export const TbPaletteOff: string;

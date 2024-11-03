@@ -1,0 +1,1 @@
+export const BsFillMouse3Fill: string;

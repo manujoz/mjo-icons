@@ -1,0 +1,1 @@
+export const BiSolidChevronRightCircle: string;

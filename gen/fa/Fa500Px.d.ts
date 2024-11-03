@@ -1,0 +1,1 @@
+export const Fa500Px: string;

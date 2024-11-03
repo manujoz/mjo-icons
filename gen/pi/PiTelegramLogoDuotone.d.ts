@@ -1,0 +1,1 @@
+export const PiTelegramLogoDuotone: string;

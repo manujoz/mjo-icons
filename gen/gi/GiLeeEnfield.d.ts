@@ -1,0 +1,1 @@
+export const GiLeeEnfield: string;

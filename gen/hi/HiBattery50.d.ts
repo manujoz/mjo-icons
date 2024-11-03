@@ -1,0 +1,1 @@
+export const HiBattery50: string;

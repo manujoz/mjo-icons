@@ -1,0 +1,1 @@
+export const LiaFileCode: string;

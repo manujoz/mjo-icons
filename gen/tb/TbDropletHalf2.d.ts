@@ -1,0 +1,1 @@
+export const TbDropletHalf2: string;

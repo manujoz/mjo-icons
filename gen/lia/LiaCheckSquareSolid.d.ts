@@ -1,0 +1,1 @@
+export const LiaCheckSquareSolid: string;

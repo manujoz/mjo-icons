@@ -1,0 +1,1 @@
+export const HiMiniSparkles: string;

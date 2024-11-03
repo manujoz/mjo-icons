@@ -1,0 +1,1 @@
+export const MdOutlineTextRotationDown: string;

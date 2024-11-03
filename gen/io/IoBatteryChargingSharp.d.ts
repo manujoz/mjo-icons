@@ -1,0 +1,1 @@
+export const IoBatteryChargingSharp: string;

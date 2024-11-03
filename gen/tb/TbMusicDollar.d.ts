@@ -1,0 +1,1 @@
+export const TbMusicDollar: string;

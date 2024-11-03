@@ -1,0 +1,1 @@
+export const MdOutlineLocalGroceryStore: string;

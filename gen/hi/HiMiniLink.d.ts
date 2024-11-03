@@ -1,0 +1,1 @@
+export const HiMiniLink: string;

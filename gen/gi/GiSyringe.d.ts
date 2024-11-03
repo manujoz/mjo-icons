@@ -1,0 +1,1 @@
+export const GiSyringe: string;

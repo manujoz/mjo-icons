@@ -1,0 +1,1 @@
+export const DiCloud9: string;

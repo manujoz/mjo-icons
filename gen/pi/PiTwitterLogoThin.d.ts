@@ -1,0 +1,1 @@
+export const PiTwitterLogoThin: string;

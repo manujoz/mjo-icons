@@ -1,0 +1,1 @@
+export const HiOutlineBugAnt: string;

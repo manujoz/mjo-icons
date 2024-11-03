@@ -1,0 +1,1 @@
+export const PiCrosshair: string;

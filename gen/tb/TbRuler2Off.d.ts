@@ -1,0 +1,1 @@
+export const TbRuler2Off: string;

@@ -1,0 +1,1 @@
+export const FaHackerrank: string;

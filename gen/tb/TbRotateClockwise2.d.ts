@@ -1,0 +1,1 @@
+export const TbRotateClockwise2: string;

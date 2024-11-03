@@ -1,0 +1,1 @@
+export const BiLogoDailymotion: string;

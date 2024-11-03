@@ -1,0 +1,1 @@
+export const PiSpeakerXLight: string;

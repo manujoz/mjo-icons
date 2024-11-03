@@ -1,0 +1,1 @@
+export const GiPocketBow: string;

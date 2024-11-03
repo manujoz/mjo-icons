@@ -1,0 +1,1 @@
+export const TbBoxAlignLeftFilled: string;

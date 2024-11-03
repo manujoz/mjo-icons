@@ -1,0 +1,1 @@
+export const BsFillCreditCard2FrontFill: string;

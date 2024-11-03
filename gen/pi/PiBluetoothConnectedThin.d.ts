@@ -1,0 +1,1 @@
+export const PiBluetoothConnectedThin: string;

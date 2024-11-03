@@ -1,0 +1,1 @@
+export const IoCloudCircle: string;

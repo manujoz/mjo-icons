@@ -1,0 +1,1 @@
+export const TbStretching2: string;

@@ -1,0 +1,1 @@
+export const GiElderberry: string;

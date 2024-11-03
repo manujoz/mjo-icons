@@ -1,0 +1,1 @@
+export const MdHistoryEdu: string;

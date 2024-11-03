@@ -1,0 +1,1 @@
+export const BiHomeAlt2: string;

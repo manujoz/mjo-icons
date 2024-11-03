@@ -1,0 +1,1 @@
+export const PiArchiveTrayDuotone: string;

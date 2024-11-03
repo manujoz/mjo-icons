@@ -1,0 +1,1 @@
+export const PiGlobeSimpleDuotone: string;

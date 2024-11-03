@@ -1,0 +1,1 @@
+export const GiMonaLisa: string;

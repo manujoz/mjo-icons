@@ -1,0 +1,1 @@
+export const FaLaptopMedical: string;

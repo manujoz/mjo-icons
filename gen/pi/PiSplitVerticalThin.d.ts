@@ -1,0 +1,1 @@
+export const PiSplitVerticalThin: string;

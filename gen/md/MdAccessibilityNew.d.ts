@@ -1,0 +1,1 @@
+export const MdAccessibilityNew: string;

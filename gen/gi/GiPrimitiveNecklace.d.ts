@@ -1,0 +1,1 @@
+export const GiPrimitiveNecklace: string;

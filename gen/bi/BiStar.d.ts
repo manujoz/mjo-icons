@@ -1,0 +1,1 @@
+export const BiStar: string;

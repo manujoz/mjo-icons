@@ -1,0 +1,1 @@
+export const TbMicrophone2Off: string;

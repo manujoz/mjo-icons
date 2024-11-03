@@ -1,0 +1,1 @@
+export const FcSmartphoneTablet: string;

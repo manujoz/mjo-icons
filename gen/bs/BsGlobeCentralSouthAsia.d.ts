@@ -1,0 +1,1 @@
+export const BsGlobeCentralSouthAsia: string;

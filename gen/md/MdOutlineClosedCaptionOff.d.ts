@@ -1,0 +1,1 @@
+export const MdOutlineClosedCaptionOff: string;

@@ -1,0 +1,1 @@
+export const AiOutlineDeleteColumn: string;

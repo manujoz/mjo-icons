@@ -1,0 +1,1 @@
+export const FcGrid: string;

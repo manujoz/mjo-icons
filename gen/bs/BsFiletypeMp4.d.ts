@@ -1,0 +1,1 @@
+export const BsFiletypeMp4: string;

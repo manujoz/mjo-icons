@@ -1,0 +1,1 @@
+export const PiLockSimpleFill: string;

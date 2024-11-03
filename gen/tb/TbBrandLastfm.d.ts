@@ -1,0 +1,1 @@
+export const TbBrandLastfm: string;

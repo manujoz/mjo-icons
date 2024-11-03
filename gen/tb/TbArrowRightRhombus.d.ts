@@ -1,0 +1,1 @@
+export const TbArrowRightRhombus: string;

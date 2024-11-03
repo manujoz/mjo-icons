@@ -1,0 +1,1 @@
+export const LiaVrCardboardSolid: string;

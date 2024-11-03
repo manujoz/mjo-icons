@@ -1,0 +1,1 @@
+export const PiSkipBackCircleDuotone: string;

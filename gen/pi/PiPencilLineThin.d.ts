@@ -1,0 +1,1 @@
+export const PiPencilLineThin: string;

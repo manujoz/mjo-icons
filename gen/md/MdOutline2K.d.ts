@@ -1,0 +1,1 @@
+export const MdOutline2K: string;

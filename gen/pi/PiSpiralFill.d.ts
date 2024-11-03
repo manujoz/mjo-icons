@@ -1,0 +1,1 @@
+export const PiSpiralFill: string;

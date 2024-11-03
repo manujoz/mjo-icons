@@ -1,0 +1,1 @@
+export const TbLamp2: string;

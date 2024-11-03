@@ -1,0 +1,1 @@
+export const PiPlugsConnectedLight: string;

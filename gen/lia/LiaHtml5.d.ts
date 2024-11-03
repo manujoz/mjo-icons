@@ -1,0 +1,1 @@
+export const LiaHtml5: string;

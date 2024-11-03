@@ -1,0 +1,1 @@
+export const TbCircleArrowDownLeftFilled: string;

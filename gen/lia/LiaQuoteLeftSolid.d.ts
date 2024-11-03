@@ -1,0 +1,1 @@
+export const LiaQuoteLeftSolid: string;

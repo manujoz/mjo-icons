@@ -1,0 +1,1 @@
+export const PiCheckBold: string;

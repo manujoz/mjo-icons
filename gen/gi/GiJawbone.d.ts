@@ -1,0 +1,1 @@
+export const GiJawbone: string;

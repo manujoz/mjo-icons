@@ -1,0 +1,1 @@
+export const FcUp = `<svg xmlns="http://www.w3.org/2000/svg" version="1" viewBox="0 0 48 48" enableBackground="new 0 0 48 48"><g fill="#3F51B5"><polygon points="24,4 35.7,18 12.3,18"></polygon><rect x="20" y="15" width="8" height="27"></rect></g></svg>`

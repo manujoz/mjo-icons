@@ -1,0 +1,1 @@
+export const WiNightAltSnow: string;

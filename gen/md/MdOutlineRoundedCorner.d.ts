@@ -1,0 +1,1 @@
+export const MdOutlineRoundedCorner: string;

@@ -1,0 +1,1 @@
+export const TbClipboardHeart: string;

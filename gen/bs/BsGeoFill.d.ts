@@ -1,0 +1,1 @@
+export const BsGeoFill: string;

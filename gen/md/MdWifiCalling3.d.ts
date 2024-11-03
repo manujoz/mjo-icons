@@ -1,0 +1,1 @@
+export const MdWifiCalling3: string;

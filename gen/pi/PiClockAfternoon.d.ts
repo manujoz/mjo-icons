@@ -1,0 +1,1 @@
+export const PiClockAfternoon: string;

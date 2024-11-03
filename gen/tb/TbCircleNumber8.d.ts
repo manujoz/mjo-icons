@@ -1,0 +1,1 @@
+export const TbCircleNumber8: string;

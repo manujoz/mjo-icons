@@ -1,0 +1,1 @@
+export const AiOutlineEllipsis: string;

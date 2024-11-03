@@ -1,0 +1,1 @@
+export const BiSearchAlt2: string;

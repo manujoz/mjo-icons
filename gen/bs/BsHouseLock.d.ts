@@ -1,0 +1,1 @@
+export const BsHouseLock: string;

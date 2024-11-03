@@ -1,0 +1,1 @@
+export const WiNightAltThunderstorm: string;

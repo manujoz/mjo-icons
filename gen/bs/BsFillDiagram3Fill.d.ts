@@ -1,0 +1,1 @@
+export const BsFillDiagram3Fill: string;

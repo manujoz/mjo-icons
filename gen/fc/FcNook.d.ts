@@ -1,0 +1,1 @@
+export const FcNook: string;

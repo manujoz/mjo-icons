@@ -1,0 +1,1 @@
+export const BsDribbble: string;

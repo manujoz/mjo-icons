@@ -1,0 +1,1 @@
+export const AiOutlineBorderBottom: string;

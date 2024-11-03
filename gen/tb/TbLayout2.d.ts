@@ -1,0 +1,1 @@
+export const TbLayout2: string;

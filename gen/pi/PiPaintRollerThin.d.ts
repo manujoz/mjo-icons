@@ -1,0 +1,1 @@
+export const PiPaintRollerThin: string;

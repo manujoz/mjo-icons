@@ -1,0 +1,1 @@
+export const FaMedium: string;

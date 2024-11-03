@@ -1,0 +1,1 @@
+export const PiYoutubeLogo: string;

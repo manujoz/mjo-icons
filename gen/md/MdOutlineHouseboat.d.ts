@@ -1,0 +1,1 @@
+export const MdOutlineHouseboat: string;

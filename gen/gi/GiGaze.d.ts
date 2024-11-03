@@ -1,0 +1,1 @@
+export const GiGaze: string;

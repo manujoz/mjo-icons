@@ -1,0 +1,1 @@
+export const PiDeviceTabletSpeaker: string;

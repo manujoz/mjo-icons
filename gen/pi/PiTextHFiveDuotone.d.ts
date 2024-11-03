@@ -1,0 +1,1 @@
+export const PiTextHFiveDuotone: string;

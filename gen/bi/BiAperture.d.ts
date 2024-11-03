@@ -1,0 +1,1 @@
+export const BiAperture: string;

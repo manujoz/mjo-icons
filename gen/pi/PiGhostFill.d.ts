@@ -1,0 +1,1 @@
+export const PiGhostFill: string;

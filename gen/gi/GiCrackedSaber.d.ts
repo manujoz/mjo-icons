@@ -1,0 +1,1 @@
+export const GiCrackedSaber: string;

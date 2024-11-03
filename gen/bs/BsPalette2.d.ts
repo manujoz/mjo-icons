@@ -1,0 +1,1 @@
+export const BsPalette2: string;

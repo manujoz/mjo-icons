@@ -1,0 +1,1 @@
+export const MdSignalWifiStatusbar2Bar: string;

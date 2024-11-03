@@ -1,0 +1,1 @@
+export const PiSmiley: string;

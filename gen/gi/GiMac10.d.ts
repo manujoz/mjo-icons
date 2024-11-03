@@ -1,0 +1,1 @@
+export const GiMac10: string;

@@ -1,0 +1,1 @@
+export const TbBrandRedux: string;

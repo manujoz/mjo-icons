@@ -1,0 +1,1 @@
+export const GiThompsonM1928: string;

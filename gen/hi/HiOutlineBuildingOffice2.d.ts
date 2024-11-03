@@ -1,0 +1,1 @@
+export const HiOutlineBuildingOffice2: string;

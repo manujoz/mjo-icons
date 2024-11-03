@@ -1,0 +1,1 @@
+export const PiCreditCardLight: string;

@@ -1,0 +1,1 @@
+export const BiPieChartAlt2: string;

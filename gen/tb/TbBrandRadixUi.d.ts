@@ -1,0 +1,1 @@
+export const TbBrandRadixUi: string;

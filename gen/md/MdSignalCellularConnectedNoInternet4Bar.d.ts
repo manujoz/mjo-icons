@@ -1,0 +1,1 @@
+export const MdSignalCellularConnectedNoInternet4Bar: string;

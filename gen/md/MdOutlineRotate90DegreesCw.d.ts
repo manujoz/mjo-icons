@@ -1,0 +1,1 @@
+export const MdOutlineRotate90DegreesCw: string;

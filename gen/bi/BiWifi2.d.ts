@@ -1,0 +1,1 @@
+export const BiWifi2: string;

@@ -1,0 +1,1 @@
+export const BiSolidPencil: string;

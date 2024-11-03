@@ -1,0 +1,1 @@
+export const PiGifThin: string;

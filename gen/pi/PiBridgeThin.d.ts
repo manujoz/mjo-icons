@@ -1,0 +1,1 @@
+export const PiBridgeThin: string;

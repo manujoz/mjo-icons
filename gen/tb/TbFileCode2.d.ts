@@ -1,0 +1,1 @@
+export const TbFileCode2: string;

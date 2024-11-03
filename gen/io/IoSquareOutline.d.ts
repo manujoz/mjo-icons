@@ -1,0 +1,1 @@
+export const IoSquareOutline: string;

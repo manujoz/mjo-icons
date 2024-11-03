@@ -1,0 +1,1 @@
+export const BiSolidChevronDown: string;

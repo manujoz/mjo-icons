@@ -1,0 +1,1 @@
+export const PiWalletFill: string;

@@ -1,0 +1,1 @@
+export const TbDeviceSim1: string;

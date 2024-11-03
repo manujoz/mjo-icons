@@ -1,0 +1,1 @@
+export const BsCamera2: string;

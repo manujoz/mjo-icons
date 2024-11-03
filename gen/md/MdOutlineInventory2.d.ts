@@ -1,0 +1,1 @@
+export const MdOutlineInventory2: string;

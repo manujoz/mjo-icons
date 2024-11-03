@@ -1,0 +1,1 @@
+export const GiDropWeapon: string;

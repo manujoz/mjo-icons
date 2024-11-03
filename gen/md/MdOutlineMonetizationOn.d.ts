@@ -1,0 +1,1 @@
+export const MdOutlineMonetizationOn: string;

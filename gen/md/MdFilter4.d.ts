@@ -1,0 +1,1 @@
+export const MdFilter4: string;

@@ -1,0 +1,1 @@
+export const TbArrowsDiagonalMinimize2: string;

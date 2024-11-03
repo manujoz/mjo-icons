@@ -1,0 +1,1 @@
+export const TbTrendingDown2: string;

@@ -1,0 +1,1 @@
+export const HiHome: string;

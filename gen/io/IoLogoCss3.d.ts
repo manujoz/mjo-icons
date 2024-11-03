@@ -1,0 +1,1 @@
+export const IoLogoCss3: string;

@@ -1,0 +1,1 @@
+export const TbSolarPanel2: string;

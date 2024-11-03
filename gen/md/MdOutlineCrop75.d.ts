@@ -1,0 +1,1 @@
+export const MdOutlineCrop75: string;

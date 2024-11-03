@@ -1,0 +1,1 @@
+export const MdOutlineAutofpsSelect: string;

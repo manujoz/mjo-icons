@@ -1,0 +1,1 @@
+export const BsMailbox2: string;

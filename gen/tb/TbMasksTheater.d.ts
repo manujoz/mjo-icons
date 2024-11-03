@@ -1,0 +1,1 @@
+export const TbMasksTheater: string;

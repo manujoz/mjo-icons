@@ -1,0 +1,1 @@
+export const BsCart4: string;

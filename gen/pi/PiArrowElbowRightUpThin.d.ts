@@ -1,0 +1,1 @@
+export const PiArrowElbowRightUpThin: string;

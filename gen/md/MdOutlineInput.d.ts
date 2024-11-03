@@ -1,0 +1,1 @@
+export const MdOutlineInput: string;

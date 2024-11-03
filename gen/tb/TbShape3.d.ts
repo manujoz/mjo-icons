@@ -1,0 +1,1 @@
+export const TbShape3: string;

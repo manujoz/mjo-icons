@@ -1,0 +1,1 @@
+export const BsQuote: string;

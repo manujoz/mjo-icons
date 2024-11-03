@@ -1,0 +1,1 @@
+export const GiStaryu: string;

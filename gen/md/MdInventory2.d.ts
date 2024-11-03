@@ -1,0 +1,1 @@
+export const MdInventory2: string;

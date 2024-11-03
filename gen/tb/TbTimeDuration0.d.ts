@@ -1,0 +1,1 @@
+export const TbTimeDuration0: string;

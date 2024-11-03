@@ -1,0 +1,1 @@
+export const TbRating18Plus: string;

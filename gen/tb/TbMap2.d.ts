@@ -1,0 +1,1 @@
+export const TbMap2: string;

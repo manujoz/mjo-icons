@@ -1,0 +1,1 @@
+export const BsSignStop: string;

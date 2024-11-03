@@ -1,0 +1,1 @@
+export const TbClock12: string;

@@ -1,0 +1,1 @@
+export const TbLetterCaseToggle: string;

@@ -1,0 +1,1 @@
+export const GiFamas: string;

@@ -1,0 +1,1 @@
+export const TbDevices2: string;

@@ -1,0 +1,1 @@
+export const GiCard3Clubs: string;

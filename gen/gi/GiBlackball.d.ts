@@ -1,0 +1,1 @@
+export const GiBlackball: string;

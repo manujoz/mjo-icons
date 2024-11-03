@@ -1,0 +1,1 @@
+export const TbSort09: string;

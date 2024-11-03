@@ -1,0 +1,1 @@
+export const TbBrandBing: string;

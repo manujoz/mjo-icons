@@ -1,0 +1,1 @@
+export const HiOutlineClipboardDocumentList: string;
