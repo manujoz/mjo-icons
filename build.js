@@ -1,6 +1,8 @@
 import fs from "fs";
 
-import { FOLDERS, ICONS } from "./src/lib/constants.js";
+import { getIcons, getIconsfolders } from "./src/lib/utils.js";
+
+const FOLDERS = getIconsfolders();
 
 console.log("Removing old dist folder...");
 // Create folders
@@ -13,20 +15,48 @@ console.log("Old dist folder removed");
 console.log("Building icons");
 
 // Generate icons
-ICONS.forEach((object, i) => {
-    const folder = FOLDERS[i];
+let totalIcons = 0;
+let packageExports = { ".": "./index.js" };
+let indexExports = "";
+
+for (const folder of FOLDERS) {
+    const icons = await getIcons(folder);
+    if (icons.length === 0) continue;
+
+    packageExports[`./${folder}`] = `./${folder}/index.js`;
+    indexExports += `export * from "./${folder}/index";\n`;
+
     fs.mkdirSync(`./dist/${folder}`);
-    Object.keys(object).forEach((key) => {
-        const iconString = object[key];
-        fs.writeFileSync(`./dist/${folder}/${key}.js`, "export const " + key + " = `" + iconString + "`", "utf-8");
-        fs.writeFileSync(`./dist/${folder}/${key}.d.ts`, "export const " + key + ": string;", "utf-8");
+
+    let content = "";
+    let types = "";
+    icons.forEach((icon) => {
+        totalIcons++;
+        content += `export const ${icon.name} = \`${icon.content}\`;\n`;
+        types += `export const ${icon.name}: string;\n`;
     });
-});
+
+    fs.writeFileSync(`./dist/${folder}/index.js`, content, "utf-8");
+    fs.writeFileSync(`./dist/${folder}/index.d.ts`, types, "utf-8");
+}
+
+// Create index.js and index.d.ts
+fs.writeFileSync("./dist/index.js", indexExports, "utf-8");
+fs.writeFileSync("./dist/index.d.ts", indexExports, "utf-8");
+
+// Create package.json
+const packageJson = JSON.parse(fs.readFileSync("./package.json"));
+delete packageJson["scripts"];
+delete packageJson["devDependencies"];
+
+packageJson["exports"] = packageExports;
+
+fs.writeFileSync("./dist/package.json", JSON.stringify(packageJson, null, 2), "utf-8");
 
 // Copy base files
-const files = [".npmignore", "LICENSE.md", "package.json", "README.md"];
+const files = [".npmignore", "LICENSE.md", "README.md"];
 files.forEach((file) => {
     fs.copyFileSync(`./${file}`, `./dist/${file}`);
 });
 
-console.log("Icons built");
+console.log("Icons built. Total icons: ", totalIcons);

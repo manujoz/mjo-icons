@@ -1,7 +1,10 @@
 import fs from "fs";
 import path from "path";
 
-import { FOLDERS } from "./constants.js";
+// import { FOLDERS } from "./constants.js";
+import { getIconsfolders } from "./utils.js";
+
+const FOLDERS = getIconsfolders();
 
 const __dirname = path.resolve();
 const reactIconsDir = path.join(__dirname, "node_modules", "react-icons");
@@ -28,19 +31,12 @@ import { genIcon } from "../lib/generator.js";
 
 console.log("Creating icons");
 for (const folder of FOLDERS) {
-    const replacements = {
-        io: "io5",
-        fa: "fa6",
-        hi: "hi2",
-    };
-
-    let indexFile = path.join(reactIconsDir, folder, "index.js");
-    if (replacements[folder]) {
-        indexFile = path.join(reactIconsDir, replacements[folder], "index.js");
+    const indexFile = path.join(reactIconsDir, folder, "index.js");
+    if (!fs.existsSync(indexFile)) {
+        continue;
     }
 
     const content = fs.readFileSync(indexFile, "utf-8");
-
     const regex = /module\.exports\.([a-zA-Z0-9_]+)\s*=\s*function\s+\1\s*\(props\)\s*{\s*return\s+GenIcon\((\{[\s\S]*?\})\)/g;
 
     const icons = [];
