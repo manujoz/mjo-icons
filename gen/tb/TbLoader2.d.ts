@@ -1,1 +1,0 @@
-export const TbLoader2: string;

@@ -1,1 +1,0 @@
-export const FaRegFaceLaughBeam: string;

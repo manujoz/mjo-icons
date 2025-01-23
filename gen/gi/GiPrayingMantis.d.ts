@@ -1,1 +1,0 @@
-export const GiPrayingMantis: string;

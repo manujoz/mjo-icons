@@ -1,1 +1,0 @@
-export const BiData: string;

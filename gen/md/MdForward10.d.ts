@@ -1,1 +1,0 @@
-export const MdForward10: string;

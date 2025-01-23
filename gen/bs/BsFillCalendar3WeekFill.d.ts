@@ -1,1 +1,0 @@
-export const BsFillCalendar3WeekFill: string;

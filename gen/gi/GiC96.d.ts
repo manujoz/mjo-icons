@@ -1,1 +1,0 @@
-export const GiC96: string;

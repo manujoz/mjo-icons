@@ -1,1 +1,0 @@
-export const BiCircleQuarter: string;

@@ -1,1 +1,0 @@
-export const TbBoxMultiple7: string;

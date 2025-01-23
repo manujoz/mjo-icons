@@ -1,1 +1,0 @@
-export const TbCpu2: string;

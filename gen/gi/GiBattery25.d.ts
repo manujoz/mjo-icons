@@ -1,1 +1,0 @@
-export const GiBattery25: string;

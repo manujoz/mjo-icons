@@ -1,1 +1,0 @@
-export const TbRoute2: string;

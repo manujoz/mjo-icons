@@ -1,1 +1,0 @@
-export const GiAlliedStar: string;

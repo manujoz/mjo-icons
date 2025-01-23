@@ -1,1 +1,0 @@
-export const GiExpense: string;

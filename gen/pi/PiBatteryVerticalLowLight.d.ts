@@ -1,1 +1,0 @@
-export const PiBatteryVerticalLowLight: string;

@@ -1,1 +1,0 @@
-export const DiCode: string;

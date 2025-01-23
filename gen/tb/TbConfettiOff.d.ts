@@ -1,1 +1,0 @@
-export const TbConfettiOff: string;

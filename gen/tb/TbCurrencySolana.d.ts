@@ -1,1 +1,0 @@
-export const TbCurrencySolana: string;

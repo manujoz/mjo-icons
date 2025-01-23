@@ -1,1 +1,0 @@
-export const MdOutlineToys: string;

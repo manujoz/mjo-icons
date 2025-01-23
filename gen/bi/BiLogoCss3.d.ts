@@ -1,1 +1,0 @@
-export const BiLogoCss3: string;

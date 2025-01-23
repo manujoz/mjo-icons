@@ -1,1 +1,0 @@
-export const LiaTengeSolid: string;

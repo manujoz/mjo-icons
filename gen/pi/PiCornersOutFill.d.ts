@@ -1,1 +1,0 @@
-export const PiCornersOutFill: string;

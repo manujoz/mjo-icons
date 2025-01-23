@@ -1,1 +1,0 @@
-export const TbShare2: string;

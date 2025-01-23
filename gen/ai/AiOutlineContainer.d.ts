@@ -1,1 +1,0 @@
-export const AiOutlineContainer: string;

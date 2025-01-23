@@ -1,1 +1,0 @@
-export const HiOutlineFire: string;

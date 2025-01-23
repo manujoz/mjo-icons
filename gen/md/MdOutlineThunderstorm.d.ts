@@ -1,1 +1,0 @@
-export const MdOutlineThunderstorm: string;

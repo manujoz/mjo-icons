@@ -1,1 +1,0 @@
-export const TbReportAnalytics: string;

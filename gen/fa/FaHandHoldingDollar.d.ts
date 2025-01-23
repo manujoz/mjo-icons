@@ -1,1 +1,0 @@
-export const FaHandHoldingDollar: string;

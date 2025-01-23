@@ -1,1 +1,0 @@
-export const HiSquare2Stack: string;

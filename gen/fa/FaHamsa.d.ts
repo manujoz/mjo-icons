@@ -1,1 +1,0 @@
-export const FaHamsa: string;

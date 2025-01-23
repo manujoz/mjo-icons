@@ -1,1 +1,0 @@
-export const TbCreativeCommonsZero: string;

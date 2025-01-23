@@ -1,1 +1,0 @@
-export const MdOutlineExposurePlus1: string;

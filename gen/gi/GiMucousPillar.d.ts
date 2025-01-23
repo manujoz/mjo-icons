@@ -1,1 +1,0 @@
-export const GiMucousPillar: string;

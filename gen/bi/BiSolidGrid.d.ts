@@ -1,1 +1,0 @@
-export const BiSolidGrid: string;

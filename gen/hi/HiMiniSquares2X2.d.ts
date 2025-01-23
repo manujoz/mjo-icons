@@ -1,1 +1,0 @@
-export const HiMiniSquares2X2: string;

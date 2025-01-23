@@ -1,1 +1,0 @@
-export const TbHeartsOff: string;

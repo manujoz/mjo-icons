@@ -1,1 +1,0 @@
-export const PiCloudArrowDownLight: string;

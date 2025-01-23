@@ -1,1 +1,0 @@
-export const MdOutlineStarBorderPurple500: string;

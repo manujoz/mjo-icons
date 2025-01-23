@@ -1,1 +1,0 @@
-export const PiCursorClickDuotone: string;

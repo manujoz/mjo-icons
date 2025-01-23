@@ -1,1 +1,0 @@
-export const MdFemale: string;

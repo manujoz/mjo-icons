@@ -1,1 +1,0 @@
-export const TbRuler3: string;

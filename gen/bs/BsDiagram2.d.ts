@@ -1,1 +1,0 @@
-export const BsDiagram2: string;

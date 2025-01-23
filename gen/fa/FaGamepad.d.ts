@@ -1,1 +1,0 @@
-export const FaGamepad: string;

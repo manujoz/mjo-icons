@@ -1,1 +1,0 @@
-export const PiPersonBold: string;

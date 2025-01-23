@@ -1,1 +1,0 @@
-export const MdOutlineReplay5: string;

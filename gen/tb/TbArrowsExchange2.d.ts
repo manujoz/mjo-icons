@@ -1,1 +1,0 @@
-export const TbArrowsExchange2: string;

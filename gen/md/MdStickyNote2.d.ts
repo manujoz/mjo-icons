@@ -1,1 +1,0 @@
-export const MdStickyNote2: string;

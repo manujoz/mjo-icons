@@ -1,1 +1,0 @@
-export const BiSolidUserX: string;

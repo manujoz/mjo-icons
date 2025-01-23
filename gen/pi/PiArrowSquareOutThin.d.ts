@@ -1,1 +1,0 @@
-export const PiArrowSquareOutThin: string;

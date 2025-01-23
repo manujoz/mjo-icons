@@ -1,1 +1,0 @@
-export const GiMantrap: string;

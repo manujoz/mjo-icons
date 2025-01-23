@@ -1,1 +1,0 @@
-export const PiTextTBold: string;

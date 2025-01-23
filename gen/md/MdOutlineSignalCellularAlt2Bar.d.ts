@@ -1,1 +1,0 @@
-export const MdOutlineSignalCellularAlt2Bar: string;

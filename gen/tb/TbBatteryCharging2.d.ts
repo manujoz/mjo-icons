@@ -1,1 +1,0 @@
-export const TbBatteryCharging2: string;

@@ -1,1 +1,0 @@
-export const MdOutlineSupervisorAccount: string;

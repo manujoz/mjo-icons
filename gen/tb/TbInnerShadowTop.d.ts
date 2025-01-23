@@ -1,1 +1,0 @@
-export const TbInnerShadowTop: string;

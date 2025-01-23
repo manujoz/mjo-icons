@@ -1,1 +1,0 @@
-export const FcFinePrint: string;

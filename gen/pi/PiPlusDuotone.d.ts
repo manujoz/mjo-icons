@@ -1,1 +1,0 @@
-export const PiPlusDuotone: string;

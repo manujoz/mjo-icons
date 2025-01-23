@@ -1,1 +1,0 @@
-export const TbSquareLetterS: string;

@@ -1,1 +1,0 @@
-export const FaArrowsDownToLine: string;

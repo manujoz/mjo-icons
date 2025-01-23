@@ -1,1 +1,0 @@
-export const TbArrowsShuffle2: string;

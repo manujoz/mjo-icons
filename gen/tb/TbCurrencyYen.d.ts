@@ -1,1 +1,0 @@
-export const TbCurrencyYen: string;

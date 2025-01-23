@@ -1,1 +1,0 @@
-export const LiaAddressBookSolid: string;

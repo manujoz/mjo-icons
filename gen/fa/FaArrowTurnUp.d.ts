@@ -1,1 +1,0 @@
-export const FaArrowTurnUp: string;

@@ -1,1 +1,0 @@
-export const LiaOpera: string;

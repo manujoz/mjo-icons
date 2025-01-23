@@ -1,1 +1,0 @@
-export const HiMiniBattery100: string;

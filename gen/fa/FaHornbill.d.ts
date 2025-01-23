@@ -1,1 +1,0 @@
-export const FaHornbill: string;

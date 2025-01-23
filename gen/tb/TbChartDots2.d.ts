@@ -1,1 +1,0 @@
-export const TbChartDots2: string;

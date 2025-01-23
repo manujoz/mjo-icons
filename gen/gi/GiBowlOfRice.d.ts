@@ -1,1 +1,0 @@
-export const GiBowlOfRice: string;

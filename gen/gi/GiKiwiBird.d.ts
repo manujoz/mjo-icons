@@ -1,1 +1,0 @@
-export const GiKiwiBird: string;

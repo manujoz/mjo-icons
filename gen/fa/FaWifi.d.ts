@@ -1,1 +1,0 @@
-export const FaWifi: string;

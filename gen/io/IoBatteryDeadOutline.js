@@ -1,1 +1,0 @@
-export const IoBatteryDeadOutline = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><rect width="400" height="224" x="31" y="144" fill="none" strokeLinecap="square" strokeMiterlimit="10" strokeWidth="32" rx="45.7" ry="45.7"></rect><path fill="none" strokeLinecap="round" strokeMiterlimit="10" strokeWidth="32" d="M479 218.67v74.66"></path></svg>`

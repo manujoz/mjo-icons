@@ -1,1 +1,0 @@
-export const GiConverseShoe: string;

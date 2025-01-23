@@ -1,1 +1,0 @@
-export const MdNoiseAware: string;

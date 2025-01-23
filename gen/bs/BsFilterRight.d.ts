@@ -1,1 +1,0 @@
-export const BsFilterRight: string;

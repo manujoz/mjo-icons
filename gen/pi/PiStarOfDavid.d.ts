@@ -1,1 +1,0 @@
-export const PiStarOfDavid: string;

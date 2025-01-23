@@ -1,1 +1,0 @@
-export const BsEasel3: string;

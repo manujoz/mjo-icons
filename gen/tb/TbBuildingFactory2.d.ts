@@ -1,1 +1,0 @@
-export const TbBuildingFactory2: string;

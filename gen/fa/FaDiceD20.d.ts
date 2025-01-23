@@ -1,1 +1,0 @@
-export const FaDiceD20: string;

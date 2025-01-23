@@ -1,1 +1,0 @@
-export const BsFillBasket3Fill: string;

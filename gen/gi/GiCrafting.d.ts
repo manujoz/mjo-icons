@@ -1,1 +1,0 @@
-export const GiCrafting: string;

@@ -1,1 +1,0 @@
-export const GiDelighted: string;

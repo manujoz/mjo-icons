@@ -1,1 +1,0 @@
-export const DiPerl: string;

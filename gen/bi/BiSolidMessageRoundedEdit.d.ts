@@ -1,1 +1,0 @@
-export const BiSolidMessageRoundedEdit: string;

@@ -1,1 +1,0 @@
-export const BsBrowserChrome: string;

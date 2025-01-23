@@ -1,1 +1,0 @@
-export const BsSnow2: string;

@@ -1,1 +1,0 @@
-export const BsValentine2: string;

@@ -1,1 +1,0 @@
-export const FaD: string;

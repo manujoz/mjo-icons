@@ -1,1 +1,0 @@
-export const PiCameraRotateBold: string;

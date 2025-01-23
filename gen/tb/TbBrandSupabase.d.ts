@@ -1,1 +1,0 @@
-export const TbBrandSupabase: string;

@@ -1,1 +1,0 @@
-export const TbTopologyRing3: string;

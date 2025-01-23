@@ -1,1 +1,0 @@
-export const PiCertificateThin: string;

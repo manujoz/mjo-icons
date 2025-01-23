@@ -1,1 +1,0 @@
-export const TbBrandFirefox: string;

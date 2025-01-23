@@ -1,1 +1,0 @@
-export const PiSelectionBackground: string;

@@ -1,1 +1,0 @@
-export const MdOutlinePhotoAlbum: string;

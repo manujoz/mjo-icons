@@ -1,1 +1,0 @@
-export const LiaChildSolid: string;

@@ -1,1 +1,0 @@
-export const BiSolidSpa: string;

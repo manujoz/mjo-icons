@@ -1,1 +1,0 @@
-export const TbMouse2: string;

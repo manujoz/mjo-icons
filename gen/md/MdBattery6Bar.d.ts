@@ -1,1 +1,0 @@
-export const MdBattery6Bar: string;

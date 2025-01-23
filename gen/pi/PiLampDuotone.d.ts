@@ -1,1 +1,0 @@
-export const PiLampDuotone: string;

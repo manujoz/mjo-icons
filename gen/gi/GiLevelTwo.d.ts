@@ -1,1 +1,0 @@
-export const GiLevelTwo: string;

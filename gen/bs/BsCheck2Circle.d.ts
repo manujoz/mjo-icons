@@ -1,1 +1,0 @@
-export const BsCheck2Circle: string;

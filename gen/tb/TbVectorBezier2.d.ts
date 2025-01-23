@@ -1,1 +1,0 @@
-export const TbVectorBezier2: string;

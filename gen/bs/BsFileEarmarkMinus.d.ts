@@ -1,1 +1,0 @@
-export const BsFileEarmarkMinus: string;

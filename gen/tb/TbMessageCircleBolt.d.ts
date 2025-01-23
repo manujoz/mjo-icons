@@ -1,1 +1,0 @@
-export const TbMessageCircleBolt: string;

@@ -1,1 +1,0 @@
-export const PiBugBeetleThin: string;

@@ -1,1 +1,0 @@
-export const PiControlBold: string;

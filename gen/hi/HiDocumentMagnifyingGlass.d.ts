@@ -1,1 +1,0 @@
-export const HiDocumentMagnifyingGlass: string;

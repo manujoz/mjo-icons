@@ -1,1 +1,0 @@
-export const PiRedditLogoBold: string;

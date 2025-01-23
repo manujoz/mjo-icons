@@ -1,1 +1,0 @@
-export const BiMale: string;

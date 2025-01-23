@@ -1,1 +1,0 @@
-export const TbServer2: string;

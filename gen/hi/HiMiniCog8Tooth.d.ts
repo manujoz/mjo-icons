@@ -1,1 +1,0 @@
-export const HiMiniCog8Tooth: string;

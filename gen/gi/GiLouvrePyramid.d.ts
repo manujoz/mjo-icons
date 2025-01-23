@@ -1,1 +1,0 @@
-export const GiLouvrePyramid: string;

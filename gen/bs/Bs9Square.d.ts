@@ -1,1 +1,0 @@
-export const Bs9Square: string;

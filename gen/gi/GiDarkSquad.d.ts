@@ -1,1 +1,0 @@
-export const GiDarkSquad: string;

@@ -1,1 +1,0 @@
-export const BsFolder2: string;

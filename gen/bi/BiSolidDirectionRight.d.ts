@@ -1,1 +1,0 @@
-export const BiSolidDirectionRight: string;

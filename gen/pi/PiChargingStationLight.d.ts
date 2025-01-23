@@ -1,1 +1,0 @@
-export const PiChargingStationLight: string;

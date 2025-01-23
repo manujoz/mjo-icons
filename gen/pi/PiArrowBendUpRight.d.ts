@@ -1,1 +1,0 @@
-export const PiArrowBendUpRight: string;

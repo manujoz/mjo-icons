@@ -1,1 +1,0 @@
-export const HiOutlineSquares2X2: string;

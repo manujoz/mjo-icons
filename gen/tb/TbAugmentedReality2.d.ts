@@ -1,1 +1,0 @@
-export const TbAugmentedReality2: string;

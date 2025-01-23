@@ -1,1 +1,0 @@
-export const MdWatch: string;

@@ -1,1 +1,0 @@
-export const GiColtM1911: string;

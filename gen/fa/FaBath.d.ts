@@ -1,1 +1,0 @@
-export const FaBath: string;

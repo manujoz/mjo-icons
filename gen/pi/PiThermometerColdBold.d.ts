@@ -1,1 +1,0 @@
-export const PiThermometerColdBold: string;

@@ -1,1 +1,0 @@
-export const TbPlugX: string;

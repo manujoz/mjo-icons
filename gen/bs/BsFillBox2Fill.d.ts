@@ -1,1 +1,0 @@
-export const BsFillBox2Fill: string;

@@ -1,1 +1,0 @@
-export const MdOutlineGroups3: string;

@@ -1,1 +1,0 @@
-export const TbBrandOpenvpn: string;

@@ -1,1 +1,0 @@
-export const PiStarHalfLight: string;

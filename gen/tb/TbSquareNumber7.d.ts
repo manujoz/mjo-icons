@@ -1,1 +1,0 @@
-export const TbSquareNumber7: string;

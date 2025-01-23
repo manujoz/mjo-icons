@@ -1,1 +1,0 @@
-export const IoCameraOutline: string;

@@ -1,1 +1,0 @@
-export const TbTestPipeOff: string;

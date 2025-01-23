@@ -1,1 +1,0 @@
-export const FaTypo3: string;

@@ -1,1 +1,0 @@
-export const MdAltRoute: string;

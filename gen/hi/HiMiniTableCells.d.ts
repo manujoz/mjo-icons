@@ -1,1 +1,0 @@
-export const HiMiniTableCells: string;

@@ -1,1 +1,0 @@
-export const LiaStumbleupon: string;

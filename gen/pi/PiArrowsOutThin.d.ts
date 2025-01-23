@@ -1,1 +1,0 @@
-export const PiArrowsOutThin: string;

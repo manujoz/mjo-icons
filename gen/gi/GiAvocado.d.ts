@@ -1,1 +1,0 @@
-export const GiAvocado: string;

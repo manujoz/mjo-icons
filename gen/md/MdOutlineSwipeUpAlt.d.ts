@@ -1,1 +1,0 @@
-export const MdOutlineSwipeUpAlt: string;

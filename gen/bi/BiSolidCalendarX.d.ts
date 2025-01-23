@@ -1,1 +1,0 @@
-export const BiSolidCalendarX: string;

@@ -1,1 +1,0 @@
-export const MdNetworkWifi2Bar: string;

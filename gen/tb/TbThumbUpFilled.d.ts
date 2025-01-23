@@ -1,1 +1,0 @@
-export const TbThumbUpFilled: string;

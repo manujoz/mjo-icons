@@ -1,1 +1,0 @@
-export const MdOutlineAssistant: string;

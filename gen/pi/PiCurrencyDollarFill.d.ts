@@ -1,1 +1,0 @@
-export const PiCurrencyDollarFill: string;

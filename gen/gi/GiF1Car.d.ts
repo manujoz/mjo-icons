@@ -1,1 +1,0 @@
-export const GiF1Car: string;

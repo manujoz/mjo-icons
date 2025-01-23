@@ -1,1 +1,0 @@
-export const TbBattery3: string;

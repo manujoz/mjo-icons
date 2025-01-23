@@ -1,1 +1,0 @@
-export const HiMinusCircle: string;

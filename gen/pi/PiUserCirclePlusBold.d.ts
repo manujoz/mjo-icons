@@ -1,1 +1,0 @@
-export const PiUserCirclePlusBold: string;

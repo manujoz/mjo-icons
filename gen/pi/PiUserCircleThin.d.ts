@@ -1,1 +1,0 @@
-export const PiUserCircleThin: string;

@@ -1,1 +1,0 @@
-export const PiPhoneIncomingFill: string;

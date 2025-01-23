@@ -1,1 +1,0 @@
-export const AiOutlineFileWord: string;

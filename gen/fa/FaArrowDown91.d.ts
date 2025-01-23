@@ -1,1 +1,0 @@
-export const FaArrowDown91: string;

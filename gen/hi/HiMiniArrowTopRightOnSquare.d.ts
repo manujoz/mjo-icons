@@ -1,1 +1,0 @@
-export const HiMiniArrowTopRightOnSquare: string;

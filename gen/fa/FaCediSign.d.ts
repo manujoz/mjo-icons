@@ -1,1 +1,0 @@
-export const FaCediSign: string;

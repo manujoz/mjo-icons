@@ -1,1 +1,0 @@
-export const TbFlask2Off: string;

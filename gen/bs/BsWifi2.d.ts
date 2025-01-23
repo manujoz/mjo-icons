@@ -1,1 +1,0 @@
-export const BsWifi2: string;

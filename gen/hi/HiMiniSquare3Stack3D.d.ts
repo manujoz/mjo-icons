@@ -1,1 +1,0 @@
-export const HiMiniSquare3Stack3D: string;

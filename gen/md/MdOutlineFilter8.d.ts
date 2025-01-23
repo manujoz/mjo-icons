@@ -1,1 +1,0 @@
-export const MdOutlineFilter8: string;

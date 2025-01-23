@@ -1,1 +1,0 @@
-export const GiAtomCore: string;

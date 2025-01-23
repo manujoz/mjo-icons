@@ -1,1 +1,0 @@
-export const FaCss3: string;

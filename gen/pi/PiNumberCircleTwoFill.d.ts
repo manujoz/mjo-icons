@@ -1,1 +1,0 @@
-export const PiNumberCircleTwoFill: string;

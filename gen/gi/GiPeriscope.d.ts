@@ -1,1 +1,0 @@
-export const GiPeriscope: string;

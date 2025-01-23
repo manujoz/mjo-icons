@@ -1,1 +1,0 @@
-export const GiByzantinTemple: string;

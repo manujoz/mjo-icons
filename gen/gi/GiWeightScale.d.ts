@@ -1,1 +1,0 @@
-export const GiWeightScale: string;

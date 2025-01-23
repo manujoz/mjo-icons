@@ -1,1 +1,0 @@
-export const MdReplay10: string;

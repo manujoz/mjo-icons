@@ -1,1 +1,0 @@
-export const BiSpaceBar = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 13H7V9H5v6h14V9h-2z"></path></svg>`

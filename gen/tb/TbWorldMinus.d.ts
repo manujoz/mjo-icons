@@ -1,1 +1,0 @@
-export const TbWorldMinus: string;

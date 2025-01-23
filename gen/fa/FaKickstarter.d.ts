@@ -1,1 +1,0 @@
-export const FaKickstarter: string;

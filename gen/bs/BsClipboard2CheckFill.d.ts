@@ -1,1 +1,0 @@
-export const BsClipboard2CheckFill: string;

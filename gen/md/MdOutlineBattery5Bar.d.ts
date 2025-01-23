@@ -1,1 +1,0 @@
-export const MdOutlineBattery5Bar: string;

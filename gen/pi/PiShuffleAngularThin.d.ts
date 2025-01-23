@@ -1,1 +1,0 @@
-export const PiShuffleAngularThin: string;

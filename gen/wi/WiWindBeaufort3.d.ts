@@ -1,1 +1,0 @@
-export const WiWindBeaufort3: string;

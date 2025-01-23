@@ -1,1 +1,0 @@
-export const BsBadgeAd: string;

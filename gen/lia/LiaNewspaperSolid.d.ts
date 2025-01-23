@@ -1,1 +1,0 @@
-export const LiaNewspaperSolid: string;

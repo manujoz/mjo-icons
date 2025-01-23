@@ -1,1 +1,0 @@
-export const TbTicTac: string;

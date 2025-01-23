@@ -1,1 +1,0 @@
-export const PiArchiveThin: string;

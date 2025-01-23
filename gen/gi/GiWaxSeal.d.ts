@@ -1,1 +1,0 @@
-export const GiWaxSeal: string;

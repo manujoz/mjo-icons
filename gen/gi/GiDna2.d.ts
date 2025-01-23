@@ -1,1 +1,0 @@
-export const GiDna2: string;

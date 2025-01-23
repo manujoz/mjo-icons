@@ -1,1 +1,0 @@
-export const BsFiletypeM4P: string;

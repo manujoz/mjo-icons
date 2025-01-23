@@ -1,1 +1,0 @@
-export const MdOutlineSafetyCheck: string;

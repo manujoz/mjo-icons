@@ -1,1 +1,0 @@
-export const PiStepsDuotone: string;

@@ -1,1 +1,0 @@
-export const TbDna2: string;

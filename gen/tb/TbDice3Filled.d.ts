@@ -1,1 +1,0 @@
-export const TbDice3Filled: string;

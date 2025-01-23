@@ -1,1 +1,0 @@
-export const GiPlesiosaurus: string;

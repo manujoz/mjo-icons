@@ -1,1 +1,0 @@
-export const MdSignalWifiStatusbarConnectedNoInternet1: string;

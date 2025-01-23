@@ -1,1 +1,0 @@
-export const WiMoonWaxingGibbous3: string;

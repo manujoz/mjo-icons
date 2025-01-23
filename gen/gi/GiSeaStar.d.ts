@@ -1,1 +1,0 @@
-export const GiSeaStar: string;

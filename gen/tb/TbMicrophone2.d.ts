@@ -1,1 +1,0 @@
-export const TbMicrophone2: string;

@@ -1,1 +1,0 @@
-export const BsFillFileLock2Fill: string;

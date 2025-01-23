@@ -1,1 +1,0 @@
-export const PiXFill: string;

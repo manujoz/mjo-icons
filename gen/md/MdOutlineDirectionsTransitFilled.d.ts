@@ -1,1 +1,0 @@
-export const MdOutlineDirectionsTransitFilled: string;

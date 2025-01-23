@@ -1,1 +1,0 @@
-export const GiSausage: string;

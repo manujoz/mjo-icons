@@ -1,1 +1,0 @@
-export const TbPropeller: string;

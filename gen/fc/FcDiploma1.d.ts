@@ -1,1 +1,0 @@
-export const FcDiploma1: string;

@@ -1,1 +1,0 @@
-export const HiOutlineBattery100: string;

@@ -1,1 +1,0 @@
-export const MdPerson4: string;

@@ -1,1 +1,0 @@
-export const BsDice1: string;

@@ -1,1 +1,0 @@
-export const TbSwitch2: string;

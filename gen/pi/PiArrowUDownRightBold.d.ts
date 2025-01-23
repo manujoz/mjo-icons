@@ -1,1 +1,0 @@
-export const PiArrowUDownRightBold: string;

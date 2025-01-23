@@ -1,1 +1,0 @@
-export const MdPanoramaHorizontalSelect: string;

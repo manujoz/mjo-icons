@@ -1,1 +1,0 @@
-export const AiFillHtml5: string;

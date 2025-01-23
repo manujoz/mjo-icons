@@ -1,1 +1,0 @@
-export const TbAtom: string;

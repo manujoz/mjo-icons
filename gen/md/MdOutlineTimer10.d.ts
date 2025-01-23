@@ -1,1 +1,0 @@
-export const MdOutlineTimer10: string;

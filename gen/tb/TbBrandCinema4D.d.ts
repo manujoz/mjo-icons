@@ -1,1 +1,0 @@
-export const TbBrandCinema4D: string;

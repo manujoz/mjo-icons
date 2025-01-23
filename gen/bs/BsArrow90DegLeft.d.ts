@@ -1,1 +1,0 @@
-export const BsArrow90DegLeft: string;

@@ -1,1 +1,0 @@
-export const MdOutlineQrCode2: string;

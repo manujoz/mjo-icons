@@ -1,1 +1,0 @@
-export const LiaLaptopCodeSolid: string;

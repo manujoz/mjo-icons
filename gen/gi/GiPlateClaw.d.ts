@@ -1,1 +1,0 @@
-export const GiPlateClaw: string;

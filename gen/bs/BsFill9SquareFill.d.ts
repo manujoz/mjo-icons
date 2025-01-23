@@ -1,1 +1,0 @@
-export const BsFill9SquareFill: string;

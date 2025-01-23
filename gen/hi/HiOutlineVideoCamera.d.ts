@@ -1,1 +1,0 @@
-export const HiOutlineVideoCamera: string;

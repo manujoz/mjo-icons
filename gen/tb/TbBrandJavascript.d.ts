@@ -1,1 +1,0 @@
-export const TbBrandJavascript: string;

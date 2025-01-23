@@ -1,1 +1,0 @@
-export const GiBootStomp: string;

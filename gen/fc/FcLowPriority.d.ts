@@ -1,1 +1,0 @@
-export const FcLowPriority: string;

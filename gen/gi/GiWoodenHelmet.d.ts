@@ -1,1 +1,0 @@
-export const GiWoodenHelmet: string;

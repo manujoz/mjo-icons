@@ -1,1 +1,0 @@
-export const GiEyeTarget: string;

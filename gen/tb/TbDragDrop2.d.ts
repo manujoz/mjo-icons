@@ -1,1 +1,0 @@
-export const TbDragDrop2: string;

@@ -1,1 +1,0 @@
-export const MdCo2: string;

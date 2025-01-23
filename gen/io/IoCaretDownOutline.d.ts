@@ -1,1 +1,0 @@
-export const IoCaretDownOutline: string;

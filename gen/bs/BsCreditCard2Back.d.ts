@@ -1,1 +1,0 @@
-export const BsCreditCard2Back: string;

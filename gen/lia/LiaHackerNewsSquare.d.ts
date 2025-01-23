@@ -1,1 +1,0 @@
-export const LiaHackerNewsSquare: string;

@@ -1,1 +1,0 @@
-export const PiHourglassHighBold: string;

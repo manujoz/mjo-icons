@@ -1,1 +1,0 @@
-export const TbClick: string;

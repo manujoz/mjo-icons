@@ -1,1 +1,0 @@
-export const BsFillRecord2Fill: string;

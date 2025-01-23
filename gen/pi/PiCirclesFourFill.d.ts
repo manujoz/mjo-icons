@@ -1,1 +1,0 @@
-export const PiCirclesFourFill: string;

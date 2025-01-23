@@ -1,1 +1,0 @@
-export const TbBeach: string;

@@ -1,1 +1,0 @@
-export const MdBatteryCharging30: string;

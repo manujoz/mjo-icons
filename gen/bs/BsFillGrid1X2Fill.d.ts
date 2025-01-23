@@ -1,1 +1,0 @@
-export const BsFillGrid1X2Fill: string;

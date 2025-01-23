@@ -1,1 +1,0 @@
-export const Fa9: string;

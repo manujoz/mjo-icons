@@ -1,1 +1,0 @@
-export const TbBrandBackbone = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor" fill="none" strokeLinecap="round" strokeLinejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M5 20l14 -8l-14 -8z"></path><path d="M19 20l-14 -8l14 -8z"></path></svg>`

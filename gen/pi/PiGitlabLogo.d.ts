@@ -1,1 +1,0 @@
-export const PiGitlabLogo: string;

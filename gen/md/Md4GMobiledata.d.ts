@@ -1,1 +1,0 @@
-export const Md4GMobiledata: string;

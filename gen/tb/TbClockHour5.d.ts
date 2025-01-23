@@ -1,1 +1,0 @@
-export const TbClockHour5: string;

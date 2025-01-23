@@ -1,1 +1,0 @@
-export const BsDice4Fill: string;

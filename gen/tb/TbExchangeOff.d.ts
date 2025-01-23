@@ -1,1 +1,0 @@
-export const TbExchangeOff: string;

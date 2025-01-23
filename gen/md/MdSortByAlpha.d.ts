@@ -1,1 +1,0 @@
-export const MdSortByAlpha: string;

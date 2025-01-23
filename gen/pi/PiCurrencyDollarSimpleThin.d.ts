@@ -1,1 +1,0 @@
-export const PiCurrencyDollarSimpleThin: string;

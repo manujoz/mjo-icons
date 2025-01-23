@@ -1,1 +1,0 @@
-export const GiHouseKeys: string;

@@ -1,1 +1,0 @@
-export const TbView360: string;

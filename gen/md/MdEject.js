@@ -1,1 +1,0 @@
-export const MdEject = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" d="M0 24V0h24v24H0z"></path><path d="M5 17h14v2H5zm7-12L5.33 15h13.34z"></path></svg>`

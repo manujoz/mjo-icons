@@ -1,1 +1,0 @@
-export const GiM3GreaseGun: string;

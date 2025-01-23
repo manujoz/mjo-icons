@@ -1,1 +1,0 @@
-export const TbTerminal2: string;

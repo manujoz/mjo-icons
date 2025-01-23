@@ -1,1 +1,0 @@
-export const FaMarker: string;

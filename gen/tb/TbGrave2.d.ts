@@ -1,1 +1,0 @@
-export const TbGrave2: string;

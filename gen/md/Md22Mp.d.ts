@@ -1,1 +1,0 @@
-export const Md22Mp: string;

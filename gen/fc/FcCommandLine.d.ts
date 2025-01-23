@@ -1,1 +1,0 @@
-export const FcCommandLine: string;

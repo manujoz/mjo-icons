@@ -1,1 +1,0 @@
-export const PiMicrosoftWordLogoBold: string;

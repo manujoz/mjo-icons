@@ -1,1 +1,0 @@
-export const FaRightFromBracket: string;

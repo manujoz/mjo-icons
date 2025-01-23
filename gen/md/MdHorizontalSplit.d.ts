@@ -1,1 +1,0 @@
-export const MdHorizontalSplit: string;

@@ -1,1 +1,0 @@
-export const GiCannedFish: string;

@@ -1,1 +1,0 @@
-export const Bs3CircleFill: string;

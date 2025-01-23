@@ -1,1 +1,0 @@
-export const PiTextHTwoLight: string;

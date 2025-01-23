@@ -1,1 +1,0 @@
-export const DiYahoo: string;

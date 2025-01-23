@@ -1,1 +1,0 @@
-export const GiRank3: string;

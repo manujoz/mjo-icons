@@ -1,1 +1,0 @@
-export const PiStickerLight: string;

@@ -1,1 +1,0 @@
-export const BsFillMortarboardFill: string;

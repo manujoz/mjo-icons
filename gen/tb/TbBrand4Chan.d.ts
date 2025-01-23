@@ -1,1 +1,0 @@
-export const TbBrand4Chan: string;

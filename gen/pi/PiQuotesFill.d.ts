@@ -1,1 +1,0 @@
-export const PiQuotesFill: string;

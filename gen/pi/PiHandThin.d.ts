@@ -1,1 +1,0 @@
-export const PiHandThin: string;

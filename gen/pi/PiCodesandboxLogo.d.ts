@@ -1,1 +1,0 @@
-export const PiCodesandboxLogo: string;

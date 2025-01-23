@@ -1,1 +1,0 @@
-export const FaG: string;

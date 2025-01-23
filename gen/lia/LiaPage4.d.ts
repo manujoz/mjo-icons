@@ -1,1 +1,0 @@
-export const LiaPage4: string;

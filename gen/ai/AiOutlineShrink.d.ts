@@ -1,1 +1,0 @@
-export const AiOutlineShrink: string;

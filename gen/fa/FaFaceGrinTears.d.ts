@@ -1,1 +1,0 @@
-export const FaFaceGrinTears: string;

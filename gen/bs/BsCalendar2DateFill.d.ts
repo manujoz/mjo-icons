@@ -1,1 +1,0 @@
-export const BsCalendar2DateFill: string;

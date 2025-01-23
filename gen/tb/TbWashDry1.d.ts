@@ -1,1 +1,0 @@
-export const TbWashDry1: string;

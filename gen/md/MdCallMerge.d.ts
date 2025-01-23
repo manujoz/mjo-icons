@@ -1,1 +1,0 @@
-export const MdCallMerge: string;

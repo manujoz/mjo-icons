@@ -1,1 +1,0 @@
-export const PiPaperPlaneRight: string;

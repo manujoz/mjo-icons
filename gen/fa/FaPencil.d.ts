@@ -1,1 +1,0 @@
-export const FaPencil: string;

@@ -1,1 +1,0 @@
-export const FaRegBookmark: string;

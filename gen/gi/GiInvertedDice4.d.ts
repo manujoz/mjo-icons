@@ -1,1 +1,0 @@
-export const GiInvertedDice4: string;

@@ -1,1 +1,0 @@
-export const PiAirplaneTakeoffThin: string;

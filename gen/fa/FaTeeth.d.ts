@@ -1,1 +1,0 @@
-export const FaTeeth: string;

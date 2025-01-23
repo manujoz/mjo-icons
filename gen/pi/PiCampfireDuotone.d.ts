@@ -1,1 +1,0 @@
-export const PiCampfireDuotone: string;

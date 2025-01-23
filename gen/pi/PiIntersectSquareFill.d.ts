@@ -1,1 +1,0 @@
-export const PiIntersectSquareFill: string;

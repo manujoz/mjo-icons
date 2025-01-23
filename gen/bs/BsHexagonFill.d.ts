@@ -1,1 +1,0 @@
-export const BsHexagonFill: string;

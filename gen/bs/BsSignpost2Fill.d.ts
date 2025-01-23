@@ -1,1 +1,0 @@
-export const BsSignpost2Fill: string;

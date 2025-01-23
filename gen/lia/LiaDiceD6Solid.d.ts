@@ -1,1 +1,0 @@
-export const LiaDiceD6Solid: string;

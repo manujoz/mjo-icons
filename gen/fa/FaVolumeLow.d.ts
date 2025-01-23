@@ -1,1 +1,0 @@
-export const FaVolumeLow: string;

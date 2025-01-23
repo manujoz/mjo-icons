@@ -1,1 +1,0 @@
-export const TbArrowLoopLeft2: string;

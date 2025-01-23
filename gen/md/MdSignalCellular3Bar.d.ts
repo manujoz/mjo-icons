@@ -1,1 +1,0 @@
-export const MdSignalCellular3Bar: string;

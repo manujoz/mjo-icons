@@ -1,1 +1,0 @@
-export const FaTurnDown: string;

@@ -1,1 +1,0 @@
-export const PiArrowArcLeftFill: string;

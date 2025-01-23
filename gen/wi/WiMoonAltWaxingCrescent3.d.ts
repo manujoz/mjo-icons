@@ -1,1 +1,0 @@
-export const WiMoonAltWaxingCrescent3: string;

@@ -1,1 +1,0 @@
-export const TbLogout2: string;

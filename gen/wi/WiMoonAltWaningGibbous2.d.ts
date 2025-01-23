@@ -1,1 +1,0 @@
-export const WiMoonAltWaningGibbous2: string;

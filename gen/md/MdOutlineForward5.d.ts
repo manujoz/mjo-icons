@@ -1,1 +1,0 @@
-export const MdOutlineForward5: string;

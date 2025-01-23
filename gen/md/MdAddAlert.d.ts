@@ -1,1 +1,0 @@
-export const MdAddAlert: string;

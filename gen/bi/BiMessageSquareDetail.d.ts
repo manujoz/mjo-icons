@@ -1,1 +1,0 @@
-export const BiMessageSquareDetail: string;

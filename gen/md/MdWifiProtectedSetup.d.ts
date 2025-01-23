@@ -1,1 +1,0 @@
-export const MdWifiProtectedSetup: string;

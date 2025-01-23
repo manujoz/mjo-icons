@@ -1,1 +1,0 @@
-export const FaAsterisk: string;

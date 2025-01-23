@@ -1,1 +1,0 @@
-export const MdLaunch: string;

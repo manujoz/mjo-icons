@@ -1,1 +1,0 @@
-export const FaServicestack: string;

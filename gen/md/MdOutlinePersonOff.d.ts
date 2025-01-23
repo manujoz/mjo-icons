@@ -1,1 +1,0 @@
-export const MdOutlinePersonOff: string;

@@ -1,1 +1,0 @@
-export const PiArrowDownRightBold: string;

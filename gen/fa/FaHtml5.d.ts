@@ -1,1 +1,0 @@
-export const FaHtml5: string;

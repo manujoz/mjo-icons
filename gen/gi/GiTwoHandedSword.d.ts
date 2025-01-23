@@ -1,1 +1,0 @@
-export const GiTwoHandedSword: string;

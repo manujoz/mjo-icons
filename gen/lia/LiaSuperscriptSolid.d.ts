@@ -1,1 +1,0 @@
-export const LiaSuperscriptSolid: string;

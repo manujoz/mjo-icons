@@ -1,1 +1,0 @@
-export const BsPlusSquareDotted: string;

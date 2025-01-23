@@ -1,1 +1,0 @@
-export const TbFile3D: string;

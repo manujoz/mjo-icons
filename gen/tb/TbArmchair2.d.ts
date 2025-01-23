@@ -1,1 +1,0 @@
-export const TbArmchair2: string;

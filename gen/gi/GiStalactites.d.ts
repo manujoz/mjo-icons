@@ -1,1 +1,0 @@
-export const GiStalactites: string;

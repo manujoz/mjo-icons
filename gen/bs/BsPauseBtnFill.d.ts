@@ -1,1 +1,0 @@
-export const BsPauseBtnFill: string;

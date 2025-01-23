@@ -1,1 +1,0 @@
-export const TbMessage2Plus: string;

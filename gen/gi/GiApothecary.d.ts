@@ -1,1 +1,0 @@
-export const GiApothecary: string;

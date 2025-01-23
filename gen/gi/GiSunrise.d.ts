@@ -1,1 +1,0 @@
-export const GiSunrise: string;

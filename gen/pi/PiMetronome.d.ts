@@ -1,1 +1,0 @@
-export const PiMetronome: string;

@@ -1,1 +1,0 @@
-export const PiPerspective: string;

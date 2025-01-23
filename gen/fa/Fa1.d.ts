@@ -1,1 +1,0 @@
-export const Fa1: string;

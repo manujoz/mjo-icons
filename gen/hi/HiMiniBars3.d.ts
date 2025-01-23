@@ -1,1 +1,0 @@
-export const HiMiniBars3: string;

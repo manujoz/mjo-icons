@@ -1,1 +1,0 @@
-export const TbDiscount2Off: string;

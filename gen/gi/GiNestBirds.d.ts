@@ -1,1 +1,0 @@
-export const GiNestBirds: string;

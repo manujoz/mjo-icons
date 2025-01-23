@@ -1,1 +1,0 @@
-export const BsCart2: string;

@@ -1,1 +1,0 @@
-export const BsFileEarmarkPerson: string;

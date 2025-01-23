@@ -1,1 +1,0 @@
-export const GiDividedSpiral: string;

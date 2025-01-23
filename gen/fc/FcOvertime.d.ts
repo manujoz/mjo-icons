@@ -1,1 +1,0 @@
-export const FcOvertime: string;

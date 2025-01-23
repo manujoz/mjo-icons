@@ -1,1 +1,0 @@
-export const LiaExternalLinkAltSolid: string;

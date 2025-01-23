@@ -1,1 +1,0 @@
-export const TbSettingsAutomation: string;

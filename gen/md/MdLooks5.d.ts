@@ -1,1 +1,0 @@
-export const MdLooks5: string;

@@ -1,1 +1,0 @@
-export const PiTramLight: string;

@@ -1,1 +1,0 @@
-export const TbH1: string;

@@ -1,1 +1,0 @@
-export const BsSafe2Fill: string;

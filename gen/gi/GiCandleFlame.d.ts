@@ -1,1 +1,0 @@
-export const GiCandleFlame: string;

@@ -1,1 +1,0 @@
-export const TbBriefcase2: string;

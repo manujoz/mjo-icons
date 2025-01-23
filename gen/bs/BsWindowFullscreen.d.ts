@@ -1,1 +1,0 @@
-export const BsWindowFullscreen: string;

@@ -1,1 +1,0 @@
-export const TbSeparator: string;

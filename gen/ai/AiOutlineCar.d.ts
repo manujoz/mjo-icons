@@ -1,1 +1,0 @@
-export const AiOutlineCar: string;

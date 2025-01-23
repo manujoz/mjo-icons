@@ -1,1 +1,0 @@
-export const TbVolume2: string;

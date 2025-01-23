@@ -1,1 +1,0 @@
-export const BsBagXFill: string;

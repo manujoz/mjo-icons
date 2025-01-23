@@ -1,1 +1,0 @@
-export const TbToolsKitchen2Off: string;

@@ -1,1 +1,0 @@
-export const BsFlower1: string;

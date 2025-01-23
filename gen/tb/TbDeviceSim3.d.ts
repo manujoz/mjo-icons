@@ -1,1 +1,0 @@
-export const TbDeviceSim3: string;

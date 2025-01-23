@@ -1,1 +1,0 @@
-export const TbBasketUp: string;

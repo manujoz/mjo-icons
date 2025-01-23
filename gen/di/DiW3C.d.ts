@@ -1,1 +1,0 @@
-export const DiW3C: string;

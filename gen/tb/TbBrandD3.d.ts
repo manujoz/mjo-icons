@@ -1,1 +1,0 @@
-export const TbBrandD3: string;

@@ -1,1 +1,0 @@
-export const MdQrCode2: string;

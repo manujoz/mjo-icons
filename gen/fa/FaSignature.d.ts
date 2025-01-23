@@ -1,1 +1,0 @@
-export const FaSignature: string;

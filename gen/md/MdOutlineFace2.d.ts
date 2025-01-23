@@ -1,1 +1,0 @@
-export const MdOutlineFace2: string;

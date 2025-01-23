@@ -1,1 +1,0 @@
-export const WiDayRain: string;

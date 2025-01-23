@@ -1,1 +1,0 @@
-export const TbArrowsJoin2: string;

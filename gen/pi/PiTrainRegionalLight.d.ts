@@ -1,1 +1,0 @@
-export const PiTrainRegionalLight: string;

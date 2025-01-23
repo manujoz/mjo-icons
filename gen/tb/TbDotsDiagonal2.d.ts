@@ -1,1 +1,0 @@
-export const TbDotsDiagonal2: string;

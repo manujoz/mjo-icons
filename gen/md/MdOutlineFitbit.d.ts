@@ -1,1 +1,0 @@
-export const MdOutlineFitbit: string;

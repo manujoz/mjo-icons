@@ -1,1 +1,0 @@
-export const TbVipOff: string;

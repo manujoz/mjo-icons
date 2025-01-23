@@ -1,1 +1,0 @@
-export const BiLogo99Designs: string;

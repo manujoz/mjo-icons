@@ -1,1 +1,0 @@
-export const Bs5Square: string;

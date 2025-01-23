@@ -1,1 +1,0 @@
-export const TbStack3: string;

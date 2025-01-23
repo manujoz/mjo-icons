@@ -1,1 +1,0 @@
-export const PiClock: string;

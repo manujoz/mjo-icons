@@ -1,1 +1,0 @@
-export const TbCircleHalf2: string;

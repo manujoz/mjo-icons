@@ -1,1 +1,0 @@
-export const BsPersonHeart: string;

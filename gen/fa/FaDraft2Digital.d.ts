@@ -1,1 +1,0 @@
-export const FaDraft2Digital: string;

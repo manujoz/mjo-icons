@@ -1,1 +1,0 @@
-export const TbMenu2: string;

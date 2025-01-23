@@ -1,1 +1,0 @@
-export const PiCursorTextBold: string;

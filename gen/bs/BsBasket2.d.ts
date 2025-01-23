@@ -1,1 +1,0 @@
-export const BsBasket2: string;

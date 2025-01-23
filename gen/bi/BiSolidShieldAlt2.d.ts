@@ -1,1 +1,0 @@
-export const BiSolidShieldAlt2: string;

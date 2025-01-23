@@ -1,1 +1,0 @@
-export const FaNotesMedical: string;

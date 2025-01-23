@@ -1,1 +1,0 @@
-export const TbNavigationHeart: string;

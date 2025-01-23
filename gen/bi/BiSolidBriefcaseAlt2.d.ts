@@ -1,1 +1,0 @@
-export const BiSolidBriefcaseAlt2: string;

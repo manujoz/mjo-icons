@@ -1,1 +1,0 @@
-export const DiTypo3: string;

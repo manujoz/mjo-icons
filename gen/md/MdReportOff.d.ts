@@ -1,1 +1,0 @@
-export const MdReportOff: string;

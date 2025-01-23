@@ -1,1 +1,0 @@
-export const BiSolidBarChartAlt2: string;

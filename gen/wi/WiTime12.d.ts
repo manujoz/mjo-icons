@@ -1,1 +1,0 @@
-export const WiTime12: string;

@@ -1,1 +1,0 @@
-export const GiAbstract008: string;

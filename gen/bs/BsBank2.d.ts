@@ -1,1 +1,0 @@
-export const BsBank2: string;

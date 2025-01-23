@@ -1,1 +1,0 @@
-export const PiRainbow: string;

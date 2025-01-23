@@ -1,1 +1,0 @@
-export const BsVolumeDownFill: string;

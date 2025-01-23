@@ -1,1 +1,0 @@
-export const PiUserFocusDuotone: string;

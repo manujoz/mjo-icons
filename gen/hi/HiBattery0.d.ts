@@ -1,1 +1,0 @@
-export const HiBattery0: string;

@@ -1,1 +1,0 @@
-export const TbClover2: string;

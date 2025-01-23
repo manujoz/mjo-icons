@@ -1,1 +1,0 @@
-export const BiTrafficCone: string;

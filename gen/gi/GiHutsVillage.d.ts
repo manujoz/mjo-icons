@@ -1,1 +1,0 @@
-export const GiHutsVillage: string;

@@ -1,1 +1,0 @@
-export const DiAptana: string;

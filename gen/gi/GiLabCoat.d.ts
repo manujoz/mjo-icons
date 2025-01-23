@@ -1,1 +1,0 @@
-export const GiLabCoat: string;

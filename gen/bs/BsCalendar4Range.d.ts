@@ -1,1 +1,0 @@
-export const BsCalendar4Range: string;

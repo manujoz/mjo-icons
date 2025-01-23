@@ -1,1 +1,0 @@
-export const BsFillGrid3X2GapFill: string;

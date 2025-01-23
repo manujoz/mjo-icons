@@ -1,1 +1,0 @@
-export const MdCloud: string;

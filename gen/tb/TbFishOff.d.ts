@@ -1,1 +1,0 @@
-export const TbFishOff: string;

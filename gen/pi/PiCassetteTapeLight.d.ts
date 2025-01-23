@@ -1,1 +1,0 @@
-export const PiCassetteTapeLight: string;

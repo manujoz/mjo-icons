@@ -1,1 +1,0 @@
-export const GiZigArrow: string;

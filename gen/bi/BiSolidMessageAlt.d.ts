@@ -1,1 +1,0 @@
-export const BiSolidMessageAlt: string;

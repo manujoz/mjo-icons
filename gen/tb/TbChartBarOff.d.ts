@@ -1,1 +1,0 @@
-export const TbChartBarOff: string;

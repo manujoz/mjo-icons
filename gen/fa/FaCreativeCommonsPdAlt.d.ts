@@ -1,1 +1,0 @@
-export const FaCreativeCommonsPdAlt: string;

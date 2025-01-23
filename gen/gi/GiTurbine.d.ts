@@ -1,1 +1,0 @@
-export const GiTurbine: string;

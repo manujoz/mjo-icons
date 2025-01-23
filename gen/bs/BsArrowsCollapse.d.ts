@@ -1,1 +1,0 @@
-export const BsArrowsCollapse: string;

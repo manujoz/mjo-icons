@@ -1,1 +1,0 @@
-export const TbRating12Plus: string;

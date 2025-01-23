@@ -1,1 +1,0 @@
-export const PiSmileyXEyesDuotone: string;

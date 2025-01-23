@@ -1,1 +1,0 @@
-export const TbSignal5G: string;

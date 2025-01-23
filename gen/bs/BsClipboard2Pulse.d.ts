@@ -1,1 +1,0 @@
-export const BsClipboard2Pulse: string;

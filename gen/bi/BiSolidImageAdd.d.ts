@@ -1,1 +1,0 @@
-export const BiSolidImageAdd: string;

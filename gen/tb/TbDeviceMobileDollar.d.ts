@@ -1,1 +1,0 @@
-export const TbDeviceMobileDollar: string;

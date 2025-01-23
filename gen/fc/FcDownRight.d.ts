@@ -1,1 +1,0 @@
-export const FcDownRight: string;

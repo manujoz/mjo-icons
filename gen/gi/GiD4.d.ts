@@ -1,1 +1,0 @@
-export const GiD4: string;

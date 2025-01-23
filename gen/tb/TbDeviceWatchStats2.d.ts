@@ -1,1 +1,0 @@
-export const TbDeviceWatchStats2: string;

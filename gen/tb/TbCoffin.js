@@ -1,1 +1,0 @@
-export const TbCoffin = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor" fill="none" strokeLinecap="round" strokeLinejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M7 3l-2 6l2 12h6l2 -12l-2 -6z"></path><path d="M10 7v5"></path><path d="M8 9h4"></path><path d="M13 21h4l2 -12l-2 -6h-4"></path></svg>`

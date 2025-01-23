@@ -1,1 +1,0 @@
-export const LiaCss3Alt: string;

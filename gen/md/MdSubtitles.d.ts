@@ -1,1 +1,0 @@
-export const MdSubtitles: string;

@@ -1,1 +1,0 @@
-export const TbHexagonFilled: string;

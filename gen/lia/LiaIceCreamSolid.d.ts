@@ -1,1 +1,0 @@
-export const LiaIceCreamSolid: string;

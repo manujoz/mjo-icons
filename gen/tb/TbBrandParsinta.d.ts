@@ -1,1 +1,0 @@
-export const TbBrandParsinta: string;

@@ -1,1 +1,0 @@
-export const Gi3DMeeple: string;

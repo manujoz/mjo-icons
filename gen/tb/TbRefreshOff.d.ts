@@ -1,1 +1,0 @@
-export const TbRefreshOff: string;

@@ -1,1 +1,0 @@
-export const DiCss3: string;

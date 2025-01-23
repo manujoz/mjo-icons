@@ -1,1 +1,0 @@
-export const TbCrutchesOff: string;

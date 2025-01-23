@@ -1,1 +1,0 @@
-export const GiTripleCorn: string;

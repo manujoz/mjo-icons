@@ -1,1 +1,0 @@
-export const MdWifi1Bar: string;

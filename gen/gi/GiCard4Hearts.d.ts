@@ -1,1 +1,0 @@
-export const GiCard4Hearts: string;

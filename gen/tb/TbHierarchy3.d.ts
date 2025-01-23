@@ -1,1 +1,0 @@
-export const TbHierarchy3: string;

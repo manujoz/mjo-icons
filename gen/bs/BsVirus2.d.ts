@@ -1,1 +1,0 @@
-export const BsVirus2: string;

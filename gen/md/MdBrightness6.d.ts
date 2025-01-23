@@ -1,1 +1,0 @@
-export const MdBrightness6: string;

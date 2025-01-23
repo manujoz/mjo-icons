@@ -1,1 +1,0 @@
-export const LiaMediumM: string;

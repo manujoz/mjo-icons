@@ -1,1 +1,0 @@
-export const FaFolder: string;

@@ -1,1 +1,0 @@
-export const TbLocationDown: string;

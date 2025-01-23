@@ -1,1 +1,0 @@
-export const GiSinkingTrap: string;

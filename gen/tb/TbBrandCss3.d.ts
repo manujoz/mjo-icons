@@ -1,1 +1,0 @@
-export const TbBrandCss3: string;

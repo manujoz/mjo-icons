@@ -1,1 +1,0 @@
-export const GiShiningSword: string;

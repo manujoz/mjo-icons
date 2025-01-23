@@ -1,1 +1,0 @@
-export const AiOutlineHtml5: string;

@@ -1,1 +1,0 @@
-export const PiBatteryPlusBold: string;

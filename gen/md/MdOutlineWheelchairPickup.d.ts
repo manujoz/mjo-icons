@@ -1,1 +1,0 @@
-export const MdOutlineWheelchairPickup: string;

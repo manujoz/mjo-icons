@@ -1,1 +1,0 @@
-export const TbSquareF8: string;

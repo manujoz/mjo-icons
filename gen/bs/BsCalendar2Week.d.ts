@@ -1,1 +1,0 @@
-export const BsCalendar2Week: string;

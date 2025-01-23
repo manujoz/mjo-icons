@@ -1,1 +1,0 @@
-export const PiPaypalLogoBold: string;

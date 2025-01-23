@@ -1,1 +1,0 @@
-export const PiLighthouse: string;

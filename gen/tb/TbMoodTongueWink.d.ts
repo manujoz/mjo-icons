@@ -1,1 +1,0 @@
-export const TbMoodTongueWink: string;

@@ -1,1 +1,0 @@
-export const GiRefinery: string;

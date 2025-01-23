@@ -1,1 +1,0 @@
-export const MdFace5: string;

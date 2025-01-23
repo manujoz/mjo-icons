@@ -1,1 +1,0 @@
-export const MdDoDisturbOff: string;

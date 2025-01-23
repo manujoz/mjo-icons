@@ -1,1 +1,0 @@
-export const BiLogoUnsplash: string;

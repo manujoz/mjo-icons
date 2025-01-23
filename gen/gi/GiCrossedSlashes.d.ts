@@ -1,1 +1,0 @@
-export const GiCrossedSlashes: string;

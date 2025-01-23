@@ -1,1 +1,0 @@
-export const TbLetterJ: string;

@@ -1,1 +1,0 @@
-export const TbMathXDivide2: string;

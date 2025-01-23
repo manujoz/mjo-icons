@@ -1,1 +1,0 @@
-export const PiSoundcloudLogoFill: string;

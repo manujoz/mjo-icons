@@ -1,1 +1,0 @@
-export const GiDeshretRedCrown: string;

@@ -1,1 +1,0 @@
-export const TbSettings2: string;

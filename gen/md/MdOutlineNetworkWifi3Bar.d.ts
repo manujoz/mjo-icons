@@ -1,1 +1,0 @@
-export const MdOutlineNetworkWifi3Bar: string;

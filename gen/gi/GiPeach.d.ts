@@ -1,1 +1,0 @@
-export const GiPeach: string;

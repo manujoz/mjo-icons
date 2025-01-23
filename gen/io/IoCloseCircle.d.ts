@@ -1,1 +1,0 @@
-export const IoCloseCircle: string;

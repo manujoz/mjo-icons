@@ -1,1 +1,0 @@
-export const PiBatteryVerticalFullBold: string;

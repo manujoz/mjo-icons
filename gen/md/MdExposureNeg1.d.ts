@@ -1,1 +1,0 @@
-export const MdExposureNeg1: string;

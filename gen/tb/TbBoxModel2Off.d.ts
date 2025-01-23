@@ -1,1 +1,0 @@
-export const TbBoxModel2Off: string;

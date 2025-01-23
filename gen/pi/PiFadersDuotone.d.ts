@@ -1,1 +1,0 @@
-export const PiFadersDuotone: string;

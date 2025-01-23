@@ -1,1 +1,0 @@
-export const TbMessageCircle2: string;

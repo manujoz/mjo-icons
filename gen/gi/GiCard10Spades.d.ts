@@ -1,1 +1,0 @@
-export const GiCard10Spades: string;

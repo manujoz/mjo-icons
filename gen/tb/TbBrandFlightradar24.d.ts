@@ -1,1 +1,0 @@
-export const TbBrandFlightradar24: string;

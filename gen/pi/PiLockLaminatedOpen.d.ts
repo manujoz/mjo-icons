@@ -1,1 +1,0 @@
-export const PiLockLaminatedOpen: string;

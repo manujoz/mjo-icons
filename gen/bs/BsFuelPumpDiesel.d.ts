@@ -1,1 +1,0 @@
-export const BsFuelPumpDiesel: string;

@@ -1,1 +1,0 @@
-export const TbDeviceTabletCancel: string;

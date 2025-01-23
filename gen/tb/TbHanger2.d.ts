@@ -1,1 +1,0 @@
-export const TbHanger2: string;

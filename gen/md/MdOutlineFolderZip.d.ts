@@ -1,1 +1,0 @@
-export const MdOutlineFolderZip: string;

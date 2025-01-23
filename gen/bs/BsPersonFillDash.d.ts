@@ -1,1 +1,0 @@
-export const BsPersonFillDash: string;

@@ -1,1 +1,0 @@
-export const PiShareFatThin: string;

@@ -1,1 +1,0 @@
-export const BsMinecartLoaded: string;

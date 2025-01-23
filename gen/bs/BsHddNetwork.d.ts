@@ -1,1 +1,0 @@
-export const BsHddNetwork: string;

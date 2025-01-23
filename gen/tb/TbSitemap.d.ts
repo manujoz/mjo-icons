@@ -1,1 +1,0 @@
-export const TbSitemap: string;

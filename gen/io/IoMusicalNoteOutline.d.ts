@@ -1,1 +1,0 @@
-export const IoMusicalNoteOutline: string;

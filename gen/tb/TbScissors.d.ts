@@ -1,1 +1,0 @@
-export const TbScissors: string;

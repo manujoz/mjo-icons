@@ -1,1 +1,0 @@
-export const TbColumns1: string;

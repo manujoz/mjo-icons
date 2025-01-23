@@ -1,1 +1,0 @@
-export const TbCellSignal1: string;

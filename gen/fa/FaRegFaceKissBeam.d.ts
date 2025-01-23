@@ -1,1 +1,0 @@
-export const FaRegFaceKissBeam: string;

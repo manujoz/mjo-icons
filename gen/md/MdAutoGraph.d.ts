@@ -1,1 +1,0 @@
-export const MdAutoGraph: string;

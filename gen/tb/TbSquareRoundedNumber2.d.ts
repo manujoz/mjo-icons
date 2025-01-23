@@ -1,1 +1,0 @@
-export const TbSquareRoundedNumber2: string;

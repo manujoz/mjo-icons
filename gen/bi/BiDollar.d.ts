@@ -1,1 +1,0 @@
-export const BiDollar: string;

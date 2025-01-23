@@ -1,1 +1,0 @@
-export const MdDiversity1: string;

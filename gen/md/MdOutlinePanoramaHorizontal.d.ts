@@ -1,1 +1,0 @@
-export const MdOutlinePanoramaHorizontal: string;

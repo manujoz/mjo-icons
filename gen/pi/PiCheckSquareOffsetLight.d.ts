@@ -1,1 +1,0 @@
-export const PiCheckSquareOffsetLight: string;

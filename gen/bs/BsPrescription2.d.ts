@@ -1,1 +1,0 @@
-export const BsPrescription2: string;

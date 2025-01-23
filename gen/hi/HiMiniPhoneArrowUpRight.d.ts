@@ -1,1 +1,0 @@
-export const HiMiniPhoneArrowUpRight: string;

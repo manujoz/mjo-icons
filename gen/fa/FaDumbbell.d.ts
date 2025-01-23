@@ -1,1 +1,0 @@
-export const FaDumbbell: string;

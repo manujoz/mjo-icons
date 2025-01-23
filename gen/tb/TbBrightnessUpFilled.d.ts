@@ -1,1 +1,0 @@
-export const TbBrightnessUpFilled: string;

@@ -1,1 +1,0 @@
-export const BiSolidTrophy: string;

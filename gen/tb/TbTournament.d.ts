@@ -1,1 +1,0 @@
-export const TbTournament: string;

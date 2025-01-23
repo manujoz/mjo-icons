@@ -1,1 +1,0 @@
-export const PiFolderSimpleMinusBold: string;

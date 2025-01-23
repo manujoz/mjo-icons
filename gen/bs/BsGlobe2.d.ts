@@ -1,1 +1,0 @@
-export const BsGlobe2: string;

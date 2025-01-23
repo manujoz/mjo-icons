@@ -1,1 +1,0 @@
-export const TbSailboat2: string;

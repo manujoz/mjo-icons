@@ -1,1 +1,0 @@
-export const TbCraneOff: string;

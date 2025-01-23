@@ -1,1 +1,0 @@
-export const TbMapPinStar: string;

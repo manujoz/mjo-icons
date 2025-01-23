@@ -1,1 +1,0 @@
-export const Md3KPlus: string;

@@ -1,1 +1,0 @@
-export const PiCircleHalfDuotone: string;

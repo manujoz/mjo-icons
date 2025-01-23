@@ -1,1 +1,0 @@
-export const GiTapir: string;

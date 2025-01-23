@@ -1,1 +1,0 @@
-export const TbLayoutAlignMiddle: string;

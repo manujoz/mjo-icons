@@ -1,1 +1,0 @@
-export const IoLogoElectron: string;

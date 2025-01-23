@@ -1,1 +1,0 @@
-export const PiSkipBackDuotone: string;

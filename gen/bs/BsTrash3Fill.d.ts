@@ -1,1 +1,0 @@
-export const BsTrash3Fill: string;

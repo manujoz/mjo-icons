@@ -1,1 +1,0 @@
-export const MdOutline60FpsSelect: string;

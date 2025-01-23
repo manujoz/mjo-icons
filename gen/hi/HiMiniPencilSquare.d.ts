@@ -1,1 +1,0 @@
-export const HiMiniPencilSquare: string;

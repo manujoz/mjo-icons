@@ -1,1 +1,0 @@
-export const BiFastForward = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m19 12-7-5v10zM5 7v10l7-5z"></path></svg>`

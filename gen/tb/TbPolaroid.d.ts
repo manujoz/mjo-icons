@@ -1,1 +1,0 @@
-export const TbPolaroid: string;

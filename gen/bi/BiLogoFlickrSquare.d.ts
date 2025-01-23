@@ -1,1 +1,0 @@
-export const BiLogoFlickrSquare: string;

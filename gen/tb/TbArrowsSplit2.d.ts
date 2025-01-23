@@ -1,1 +1,0 @@
-export const TbArrowsSplit2: string;

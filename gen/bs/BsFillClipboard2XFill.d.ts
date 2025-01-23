@@ -1,1 +1,0 @@
-export const BsFillClipboard2XFill: string;
